@@ -707,8 +707,8 @@ function ct_scripts_method() {
 				wp_register_script('ct-infinitescroll-js',get_template_directory_uri().'/js/jquery.infinitescroll.min.js',false, null , true);
 				wp_enqueue_script('ct-infinitescroll-js',array('jquery'));
 
-		   		$ct_localization_infinite_array = array( 'loading_posts'	=> __('<em>Loading the next set of posts...</em>','color-theme-framework'),
-		   												 'no_posts'			=> __('No more posts to show.', 'color-theme-framework')
+		   		$ct_localization_infinite_array = array( 'loading_posts'	=> __('<em>ระบบกำลังนึกเรื่องเที่ยวสนุกๆอยู่... อดใจรอนะ</em>','color-theme-framework'),
+		   												 'no_posts'			=> __('หมดแล้วอ่ะ ไปเที่ยวหน้าอีกต่อน่ะ', 'color-theme-framework')
 		   												);
 				wp_localize_script( 'ct-infinitescroll-js', 'ct_localization_infinite', $ct_localization_infinite_array );
 			}
@@ -1426,7 +1426,7 @@ if ( !function_exists( 'ct_load_js' ) ) {
 				<?php $ct_pages = $wp_query->max_num_pages; ?>
 				maxPage: <?php echo $ct_pages; ?>,
 				loading: {
-					finishedMsg: ( typeof ct_localization_infinite != 'undefined' || ct_localization_infinite != null ) ? ct_localization_infinite.no_posts : "No more posts to show.",
+					finishedMsg: ( typeof ct_localization_infinite != 'undefined' || ct_localization_infinite != null ) ? ct_localization_infinite.no_posts : "หมดแล้วอ่ะ ไปเที่ยวหน้าอีกต่อน่ะ",
 					img: '<?php echo get_template_directory_uri(); ?>/img/ajax-loader.gif'
 				}
 			},
