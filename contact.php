@@ -33,7 +33,7 @@ if(!empty($_POST)) {
 	}
 
 	if(empty($error)) { 
-		$mail_subject = __('Message from Pravda WordPress Theme', 'color-theme-framework');
+		$mail_subject = __('Message from World Destinations Contact', 'color-theme-framework');
 		$message = __('Name: ', 'color-theme-framework') . $name . "\n" .
 		__('Email: ', 'color-theme-framework') . $email . "\n" .
 		__('URL: ', 'color-theme-framework') . $url . "\n" .
