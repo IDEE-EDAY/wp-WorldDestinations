@@ -108,8 +108,9 @@ $header_width = stripslashes( $ct_data['ct_header_width'] );
 						<?php }	?>
 
 						<?php if ( $logo_type == "text" ) { ?>
-							<h1><a href="<?php echo home_url(); ?>"><?php echo stripslashes( $ct_data['ct_logo_text'] ); ?></a></h1>
+							<h1 class="H1"><a href="<?php echo home_url(); ?>"><?php echo stripslashes( $ct_data['ct_logo_text'] ); ?></a></h1> <br><br>
 							<span class="logo-slogan"><?php echo stripslashes( $ct_data['ct_logo_slogan'] ); ?></span>
+							
 						<?php } ?>
 					</div> <!-- #logo -->
 				</div><!-- .span5 -->
