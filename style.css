@@ -1740,14 +1740,14 @@ display: inline-block;
 .single .format-video .post-block .entry-thumb { position: relative; }
 
 .ct-totop {
-	background: #FFF;
+	background: #BBB;
 	-moz-border-radius: 96px;
 	-webkit-border-radius: 96px;
 	border-radius: 96px;
 	width: 48px;
 	position: fixed;
-	right: 5px;
-	bottom: 10px;
+	right: 0px;
+	bottom: 45px;
 	height: 48px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);	
