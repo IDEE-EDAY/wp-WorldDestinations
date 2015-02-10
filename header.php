@@ -104,13 +104,12 @@ $header_width = stripslashes( $ct_data['ct_header_width'] );
 				<?php endif; ?>
 					<div id="logo">
 						<?php if ( $logo_type == "image" ) { ?>
-							<a href="<?php echo home_url(); ?>"><img src="<?php echo stripslashes( $ct_data['ct_logo_upload'] ) ?>" alt="" /></a>
-						<?php }	?>
+						   <a href="<?php echo home_url(); ?>"><img src="<?php echo stripslashes( $ct_data['ct_logo_upload'] ) ?>" alt="" /></a><br><br><span class="logo-slogan"><?php echo stripslashes( $ct_data['ct_logo_slogan'] ); ?></span>
+						   					<?php }	?>
 
 						<?php if ( $logo_type == "text" ) { ?>
 							<h1 class="H1"><a href="<?php echo home_url(); ?>"><?php echo stripslashes( $ct_data['ct_logo_text'] ); ?></a></h1> <br><br>
 							<span class="logo-slogan"><?php echo stripslashes( $ct_data['ct_logo_slogan'] ); ?></span>
-							
 						<?php } ?>
 					</div> <!-- #logo -->
 				</div><!-- .span5 -->
