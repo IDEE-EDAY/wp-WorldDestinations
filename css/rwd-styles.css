@@ -94,7 +94,7 @@
 		#blog-entry .masonry-box.four_columns,
 		#blog-entry .masonry-box.five_columns,
 		#blog-entry .masonry-box.three_columns_sidebar,
-		#blog-entry .masonry-box.two_columns_sidebar { width: 30.8% !important; margin-right: 2.5% !important; margin-bottom: 2.5% !important; }
+		#blog-entry .masonry-box.one_columns_sidebar  { width: 47% !important; margin-right: 3%!important; margin-bottom: 3%!important; }
 
 		#blog-entry .masonry-box.one_columns_sidebar {
 			width: 97.5% !important;
