@@ -1,0 +1,707 @@
+-----------------------------------------------------------------------
+Pravda - Retina Responsive WordPress Theme v 1.27 - Changelog
+-----------------------------------------------------------------------
+
+
+
+
+
+Version 1.27 2015-01-27
+--------------------------
+- Fixed: Minor bugs
+- Fixed: Issue Font Awesome icons in menu
+- Optimized: Speed site performance
+- Optimized: Java scripts
+- Updated: Font Awesome icons to v 3.2.1
+- Updated: Javascripts libraries
+- Improved: Sticky menu
+- Improved: RTL styles
+- Improved: Metabox feature (Important! Need to install the plugin "Meta Box" via menu Appearance -> Install Plugins)
+
+Changed files:
+- style.css
+- rtl.css
+- functions.php
+- header.php
+- /includes/class-tgm-plugin-activation.php
+- /includes/theme-metaboxes.php
+- /js/custom.js
+- /js/jquery.infinitescroll.min.js
+- /js/jquery.masonry.min.js
+- /js/retina.js
+- /font/*
+
+
+
+
+
+Version 1.26 2014-11-13
+--------------------------
+- Fixed: Minor bugs
+- Fixed: Issue with Ads unit
+- Improved: Responsive layout
+
+Changed files:
+- style.css
+- functions.php
+
+
+
+
+
+Version 1.25 2014-09-16
+--------------------------
+- Updated: WooCommerce template files (version 2.2.3)
+
+Changed files:
+- style.css (changed only version)
+- /woocommerce/loop/pagination.php
+
+
+
+
+
+Version 1.24 2014-09-10
+--------------------------
+- Fixed: Minor bugs
+- Improved: RTL styles
+- Updated: WooCommerce template files (version 2.2.0)
+
+Changed files:
+- style.css
+- rtl.css
+- functions.php
+- /js/custom.js
+- /woocommerce/loop/pagination.php
+- /woocommerce/loop/orderby.php
+
+
+
+
+
+Version 1.23 2014-07-25
+--------------------------
+- Fixed: Minor bugs
+- Fixed: Issue with Gallery post format
+
+Changed files:
+- style.css
+- functions.php
+- content-gallery.php
+- category.php
+- /admin/functions/functions.options.php
+- /css/styles.php
+- /css/woocommerce.css
+- /js/custom.js
+
+
+
+
+
+Version 1.22 2014-06-24
+--------------------------
+- Fixed: Minor bugs
+- Changed: Increased thumbnail size for Blog posts
+- Fixed: Issue with top padding for entry content
+- Improved: Responsive feature
+
+Changed files:
+- style.css
+- functions.php
+- content-video.php
+- content-image.php
+- content-gallery.php
+- content-audio.php
+- content-standard.php
+- content-status.php
+- post-like.php
+- /css/rwd-styles.css
+
+
+
+
+
+
+Version 1.21 2014-06-12
+--------------------------
+- Disabled: An old Shortcodes feature
+
+Changed files:
+- style.css
+- functions.php
+
+
+
+
+
+Version 1.20 2014-06-12
+--------------------------
+- Fixed: Minor bugs
+- Fixed: Issue with "Tumblelog" layout.
+- Fixed: Issue with "Sticky" menu
+- Fixed: Issue with Search page
+- Fixed: Issue with menu for "boxed" header
+- Fixed: Issue with Blog post meta
+- Improved: Sticky menu
+- Improved: Infinite Scroll feature
+- Improved: Carousel widget (related posts feature)
+- Improved: Small Slider widget (related posts feature)
+- Improved: Popular Posts widget (related posts feature)
+- Improved: Recent Posts widget (related posts feature)
+- Improved: Related Posts Thumbs widget (related posts feature)
+- Improved: Responsive feature for small\mobile devices (percentages instead of fixed width)
+- Added: Option for "inbuilt" sidebar (see Demo)
+- Added: Option for Custom video
+- Added: Option for Custom advertisement (appears on the Blog page between the posts, see Demo)
+
+Changed files:
+- style.css
+- template-blog.php
+- header.php
+- functions.php
+- search.php
+- category.php
+- author.php
+- tag.php
+- archive.php
+- index.php
+- single.php
+- content-video.php
+- content-image.php
+- content-gallery.php
+- content-audio.php
+- content-standard.php
+- content-status.php
+- /admin/functions/functions.options.php
+- /includes/theme-metaboxes.php
+- /plugins/ajax-thumbnail-rebuild.1.12.zip
+- /plugins/ct-shortcodes.zip
+- /js/load-posts.js
+- /js/jquery.infinitescroll.min.js
+- /css/rwd-styles.css
+- /css/styles.php
+- /functions/ct-carousel-widget.php
+- /functions/ct-related-posts-thumbs-widget.php
+- /functions/ct-popular-posts-widget.php
+- /functions/ct-recent-posts-widget.php
+- /functions/ct-small-slider-widget.php
+
+
+
+
+
+Version 1.19 2014-04-06
+--------------------------
+- Fixed: Minor bugs
+- Fixed: Issue with "Show more" pagination.
+- Removed: Option for "Single Post Meta Block"
+
+Changed files:
+- style.css (changed only version)
+- functions.php
+- archive.php
+- author.php
+- search.php
+- tag.php
+- category.php
+- /css/styles.php
+- /admin/functions/functions.options.php
+
+
+
+
+
+Version 1.18 2014-03-24
+--------------------------
+- Fixed: Minor bugs
+- Updated: WooCommerce template files
+- Improved: Compatibility with popular plugins
+- Changed: "To Top" feature
+- Optimized: Speed site performance
+- Optimized: Java scripts
+
+Changed files:
+- rtl.css
+- style.css
+- functions.php
+- footer.php
+- post-like.php
+- content-video.php
+- content-status.php
+- content-standard.php
+- content-image.php
+- content-gallery.php
+- content-audio.php
+- contact.php
+- template-blog.php
+- /admin/functions/functions.options.php
+- /woocommerce/*
+- /css/woocommerce.css
+- /css/styles.php
+- /js/custom.js
+
+Removed files:
+- /single-product/product-attributes.php
+- /woocommerce/*
+- /js/scrolltopcontrol.js
+- /js/prettify.js
+- /js/jquery.imagesloaded.min.js
+
+New files:
+- /woocommerce/*
+
+
+
+
+
+Version 1.17 2014-02-14
+--------------------------
+- Fixed: Minor bugs
+- Fixed: Issue with Author description
+- Updated: WooCommerce template files
+
+Changed files:
+- style.css (changed only version)
+- author.php
+- /css/woocommerce.css
+- /css/styles.php
+- /woocommerce/*
+
+
+
+
+
+Version 1.16 2014-02-11
+--------------------------
+- Fixed: Issue with Post content
+- Fixed: Issue with video post sharing
+- Improved: Status post format
+- Improved: Home\Blog page
+- Added: Option to turn on\off Bootstrap.js script
+- Added: Open Graph Objects for post page
+- Added: A new fields in the user profile for social icons (User -> Your Profile)
+
+Changed files:
+- functions.php
+- template-blog.php
+- index.php
+- style.css
+- single.php
+- header.php
+- content-video.php
+- content-status.php
+- content-image.php
+- content-audio.php
+- content-gallery.php
+- /admin/functions/functions.options.php
+- /js/custom.js
+- /woocommerce/content-product.php
+
+
+
+
+
+
+Version 1.15 2014-01-25
+--------------------------
+- Fixed: Issue with Child theme
+
+Changed files:
+- style.css (changed only version)
+- /admin/functions/functions.admin.php
+
+
+
+
+
+Version 1.14 2014-01-24
+--------------------------
+- Fixed: Issue with pagination on Blog page template
+- Fixed: Issue with custom sidebars feature
+
+Changed files:
+- style.css
+- functions.php
+
+
+
+
+
+Version 1.13 2014-01-23
+--------------------------
+- Fixed: Issue with menu items with icons
+- Fixed: Issue with posts and pages with RTL
+- Fixed: Minor bugs
+- Improved: Structure for WooCommerce templates
+- Improved: Child theme
+- Added: Option to turn on\off Retina.js script
+- Added: Option to turn on\off "Custom Sidebars" feature
+- Added: WooCommerce option "Product Columns"
+- Added: WooCommerce option "Products per Page"
+- Added: WooCommerce option "Related Products per Page"
+- Added: WooCommerce option "Related Products per Row"
+- Added: Status post format
+- Added: A new type of pagination - "Show More" button (see Demo)
+
+Changed files:
+- style.css
+- functions.php
+- template-blog.php
+- index.php
+- wpml-config.xml
+- page.php
+- /admin/functions/functions.options.php
+- /admin/functions/functions.admin.php
+- /admin/assets/admin-style.css
+- /woocommerce/content-product.php
+- /woocommerce/single-product/up-sells.php
+- /woocomerce/loop/loop-end.php
+- /woocomerce/loop/loop-start.php
+- /js/custom.js
+- /css/rwd-styles.css
+- /css/styles.php
+- /css/woocommerce.css
+- wp-pravda-child.zip
+
+New files:
+- content-status.php
+- /js/load-posts.js
+
+
+
+
+
+Version 1.12 2013-12-02
+--------------------------
+- Fixed: Issue with search results and pages
+- Fixed: Issue with WooCommerce styles
+- Fixed: Issue with line-height for menu items with icons
+- Fixed: Minor bugs
+- Updated: XML demo file
+- Improved: Documentation
+- Added: Caption for Gallery post images
+
+Changed files:
+- style.css
+- search.php
+- content-standard.php
+- functions.php
+- /admin/functions/functions.options.php
+- /includes/thumb-gallery.php
+
+
+
+
+
+Version 1.11 2013-11-22
+--------------------------
+- Fixed: Issue with the long words in title
+- Fixed: Bug with main menu
+- Fixed: Minor bugs
+- Improved: Contact form
+- Improved: Carousel widget
+- Improved: Localization
+- Improved: Pagination
+- Improved: Blog page template
+- Improved: Menu
+- Improved: RTL support
+- Added: Compatibility for WPML
+- Added: Google Font option for the Main menu
+- Added: Widget area in the footer
+- Added: Widget area in the top of the page
+- Added: Option in the post settings to define any URL for a post
+- Added: Option in the Carousel widget to exclude some categories
+- Added: Option in the Recent Posts widget to exclude some categories
+- Added: Option in the Small Slider widget to exclude some categories
+- Added: Right alignment for the Main menu
+- Added: Option for "Read more" button in excerpt
+- Added: Option "Use colored background for content" on the post page
+- Added: Option for iOS icons
+- Added: WooCommerce compatible
+
+Changed files:
+- page.php
+- functions.php
+- style.css
+- rtl.css
+- single.php
+- contact.php
+- content-image.php
+- content-gallery.php
+- content-audio.php
+- content-video.php
+- content-standard.php
+- searchform.php
+- template-blog.php
+- footer.php
+- /admin/functions/functions.options.php
+- /admin/functions/functions.load.php
+- /admin/assets/css/admin-style.css
+- /meta-box/* (changed only localization)
+- /includes/theme-metaboxes.php
+- /includes/shortcodes.php
+- /js/jquery.masonry.min.js
+- /js/jquery.infinitescroll.min.js
+- /js/scrolltopcontrol.js
+- /js/custom.js
+- /css/styles.php
+- /css/rwd-styles.css
+- /functions/ct-small-slider-widget.php
+- /functions/ct-recent-posts-widget.php
+- /functions/ct-carousel-widget.php
+- /functions/ct-text-widget.php
+- /functions/ct-related-posts-thumbs-widget.php
+- /functions/ct-popular-posts-widget.php
+- /functions/ct-instagram-widget.php
+- /functions/ct-flickr-widget.php
+- /functions/ct-categories-widget.php
+- /functions/ct-twitter-widget.php
+
+
+New files:
+- woocommerce.php
+- wpml-config.xml
+- /admin/functions/functions.fix.php
+- /admin/assets/images/icon-commerce.png
+- /img/woocommerce/*
+- /img/icons/apple-touch-icon.png
+- /img/icons/apple-touch-icon-76x76.png
+- /img/icons/apple-touch-icon-120x120.png
+- /img/icons/apple-touch-icon-152x152.png
+- /woocommerce/*
+- /css/woocommerce.css
+
+
+
+
+
+Version 1.10 2013-08-24
+--------------------------
+- Improved: Responsive feature (device orientation)
+- Fixed: Issue with the Carousel widget (when displayed only one huge related post)
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- template-contacts.php
+- functions.php
+- index.php
+- content-standard.php
+- content-audio.php
+- content-gallery.php
+- content-video.php
+- content-image.php
+- content-page.php
+- \js\custom.js
+- \functions\ct-carousel-widget.php
+- \includes\widget-gallery.php
+- \css\rwd-styles.css
+
+
+
+
+
+Version 1.09 2013-06-15
+--------------------------
+- Added: Template for Blog page.
+- Added: A new tab in the "Pravda Options" for the Twitter.
+- Fixed: Issue with Twitter widget.
+
+Changed files:
+- style.css (changed only version)
+- functions.php
+- \functions\ct-twitter-widget.php
+- \admin\functions\functions.options.php
+- \admin\assets\css\admin-style.css
+
+New files:
+- template-blog.php
+- \functions\twitteroauth.php
+- \admin\assets\images\icon-twitter.png
+
+
+
+
+Version 1.08 2013-06-12
+--------------------------
+- Fixed: Bug on the Sigle post page
+
+Changed files:
+- style.css
+
+
+
+
+Version 1.07 2013-06-08
+--------------------------
+- Improved: Masonry layout.
+- Added: Some improvements
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- functions.php
+- header.php
+- \css\rwd-styles.css
+
+
+
+
+Version 1.06 2013-06-05
+--------------------------
+- Improved: Masonry layout.
+- Fixed: Backend Translation.
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- functions.php
+- header.php
+- tag.php
+- archive.php
+- search.php
+- author.php
+- \meta-box\inc\common.php
+- \css\styles.php
+
+
+
+
+
+Version 1.05 2013-05-25
+--------------------------
+- Fixed: Bug with message in the Dashboard for "AJAX Thumbnal Rebuild".
+- Fixed: Bug with "Auto" thumbnail for Youtube.
+- Fixed: Bug with "Popular Posts" widget.
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- functions.php
+- content-video.php
+- content-standard.php
+- content-audio.php
+- content-gallery.php
+- content-image.php
+- single.php
+- header.php
+- \functions\ct-popular-posts-widget.php
+- \functions\ct-recent-posts-widget.php
+- \css\rwd-styles.css
+- \js\custom.js
+
+
+
+
+Version 1.04 2013-05-11
+--------------------------
+- Updated: Font Awesome icons to version 3.1.1
+- Added: Template for Child theme (wp-pravda-child.zip).
+- Added: Option "Show popular posts from the last N days" for "Popular posts" widget
+- Added: "To Top" button to easily scroll long pages back to the top.
+- Improved: Author description field (allowed HTML tags)
+- Fixed: Bug with Author\Tags\Archive\Search pages.
+- Fixed: Bug with Audio post.
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- functions.php
+- tag.php
+- archive.php
+- search.php
+- author.php
+- content-audio.php
+- \font\*
+- \css\font-awesome.min.css
+- \css\font-awesome-ie7.min.css
+- \css\styles.php
+- \css\rwd-styles.css
+- \functions\ct-popular-posts-widget.php
+
+New files:
+- \js\scrolltopcontrol.js
+
+
+
+
+Version 1.03 2013-05-02
+--------------------------
+- Improved: Support RTL languages (rtl.css)
+- Fixed: Bug with "Post like system" + Infinite Scroll (functions.php)
+- Fixed: Bug with Youtube video in FireFox (content-video.php)
+- Fixed: Minor bugs.
+
+Changed files:
+- rtl.css
+- style.css
+- content-gallery.php
+- content-standard.php
+- content-image.php
+- content-audio.php
+- content-video.php
+- functions.php
+- index.php
+- \css\styles.php
+- \css\rwd-styles.css
+
+
+
+
+Version 1.02 2013-04-29
+--------------------------
+- Added: Blog and Category layout "1 Column + Sidebar"
+- Added: Field for Blog sharing option (\admin\functions\functions.options.php)
+- Improved: CSS Media Queries (\css\rwd-styles.css)
+- Fixed: Bug with Custom CSS feature (\admin\functions\functions.options.php)
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- category.php
+- single.php
+- template-sitemap.php
+- functions.php
+- content-video.php
+- \admin\functions\functions.options.php
+- \css\styles.php
+- \css\rwd-styles.css
+
+
+
+
+Version 1.01 2013-04-25
+--------------------------
+- Added: Search Page Template (search.php)
+- Improved: Support RTL languages (rtl.css)
+- Improved: CSS Media Queries (\css\rwd-styles.css)
+- Improved: Child themes compatibility (functions.php)
+- Fixed: Bug with Google Analytics Tracking Code (functions.php)
+- Fixed: Minor bugs.
+
+Changed files:
+- style.css
+- rtl.css
+- functions.php
+- content-standard.php
+- index.php
+- single.php
+- \css\rwd-styles.css
+- \css\styles.php
+
+New files:
+- search.php
+
+
+
+
+
+Version 1.0 2013-04-24
+--------------------------
+- Release
+
+
+
+
+ZERGE <zerge.com@gmail.com>
+http://color-theme.com/

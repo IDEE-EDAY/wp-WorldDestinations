@@ -1,0 +1,4675 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pravda - Retina Responsive WordPress Theme v1.13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-23 21:37:20+0000\n"
+"Last-Translator: admin <zerge.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ color-theme-framework
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:20
+#@ color-theme-framework
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:1066
+#@ color-theme-framework
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+#@ color-theme-framework
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+#@ color-theme-framework
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+#@ color-theme-framework
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ color-theme-framework
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+#@ color-theme-framework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/functions/functions.options.php:162
+#@ color-theme-framework
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:166
+#@ color-theme-framework
+msgid "Select a Category for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:167
+#@ color-theme-framework
+msgid "Pick a Category for the Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:174
+#@ color-theme-framework
+msgid "Select a Layout for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:175
+#@ color-theme-framework
+msgid "Select 3/4/5 columns for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:182
+#@ color-theme-framework
+msgid "Select a Layout for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:183
+#@ color-theme-framework
+msgid "Select 3/4/5 columns for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:190
+#@ color-theme-framework
+msgid "Sidebar position for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:191
+#@ color-theme-framework
+msgid "Select sidebar position for Home page"
+msgstr ""
+
+#: admin/functions/functions.options.php:198
+#@ color-theme-framework
+msgid "Sidebar position for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:199
+#@ color-theme-framework
+msgid "Select sidebar position for Category page (tag page, etc.)"
+msgstr ""
+
+#: admin/functions/functions.options.php:206
+#@ color-theme-framework
+msgid "Type of Pagination"
+msgstr ""
+
+#: admin/functions/functions.options.php:207
+#@ color-theme-framework
+msgid "Select Standard or Infinite Scroll pagination"
+msgstr ""
+
+#: admin/functions/functions.options.php:214
+#@ color-theme-framework
+msgid "Tumblelog"
+msgstr ""
+
+#: admin/functions/functions.options.php:215
+#@ color-theme-framework
+msgid "Enable/Disable tumblelog style"
+msgstr ""
+
+#: admin/functions/functions.options.php:218
+#: admin/functions/functions.options.php:227
+#: admin/functions/functions.options.php:236
+#: admin/functions/functions.options.php:245
+#@ color-theme-framework
+msgid "Enable"
+msgstr ""
+
+#: admin/functions/functions.options.php:219
+#: admin/functions/functions.options.php:228
+#: admin/functions/functions.options.php:237
+#: admin/functions/functions.options.php:246
+#@ color-theme-framework
+msgid "Disable"
+msgstr ""
+
+#: admin/functions/functions.options.php:223
+#@ color-theme-framework
+msgid "Responsive Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:224
+#@ color-theme-framework
+msgid "Enable/Disable responsive layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:250
+#@ color-theme-framework
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:251
+#@ color-theme-framework
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: admin/functions/functions.options.php:257
+#@ color-theme-framework
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:258
+#@ color-theme-framework
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:271
+#@ color-theme-framework
+msgid "Header Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:275
+#@ color-theme-framework
+msgid "Header/Footer width"
+msgstr ""
+
+#: admin/functions/functions.options.php:276
+#@ color-theme-framework
+msgid "Select your header width"
+msgstr ""
+
+#: admin/functions/functions.options.php:303
+#@ color-theme-framework
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:304
+#@ color-theme-framework
+msgid "Pick a background color (default: #2b2e30)."
+msgstr ""
+
+#: admin/functions/functions.options.php:310
+#@ color-theme-framework
+msgid "Use Predefined Header Image / BG Color / Upload Your Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:311
+#@ color-theme-framework
+msgid "Select the type of usage header background"
+msgstr ""
+
+#: admin/functions/functions.options.php:318
+#@ color-theme-framework
+msgid "Header Background Repeat"
+msgstr ""
+
+#: admin/functions/functions.options.php:319
+#: admin/functions/functions.options.php:647
+#@ color-theme-framework
+msgid "Select the default background repeat for the background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:326
+#@ color-theme-framework
+msgid "Uploaded Header Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:327
+#@ color-theme-framework
+msgid "Upload image for header background using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:333
+#@ color-theme-framework
+msgid "Predefined Header Background Images"
+msgstr ""
+
+#: admin/functions/functions.options.php:334
+#@ color-theme-framework
+msgid "Select a header background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:349
+#@ color-theme-framework
+msgid "Width of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:350
+#@ color-theme-framework
+msgid "Select your logo width"
+msgstr ""
+
+#: admin/functions/functions.options.php:357
+#@ color-theme-framework
+msgid "Type of Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:358
+#@ color-theme-framework
+msgid "Select your logo type ( Image or Text )"
+msgstr ""
+
+#: admin/functions/functions.options.php:365
+#@ color-theme-framework
+msgid "Logo Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:366
+#@ color-theme-framework
+msgid "Upload image using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:372
+#@ color-theme-framework
+msgid "Logo Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:373
+#@ color-theme-framework
+msgid "Enter text for logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:379
+#@ color-theme-framework
+msgid "Logo Slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:380
+#@ color-theme-framework
+msgid "Enter text for logo slogan"
+msgstr ""
+
+#: admin/functions/functions.options.php:421
+#@ color-theme-framework
+msgid "Menu Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:425
+#@ color-theme-framework
+msgid "Sticky Menu?"
+msgstr ""
+
+#: admin/functions/functions.options.php:426
+#@ color-theme-framework
+msgid "Use sticky menu?"
+msgstr ""
+
+#: admin/functions/functions.options.php:429
+#: admin/functions/functions.options.php:446
+#: admin/functions/functions.options.php:584
+#: admin/functions/functions.options.php:1010
+#: admin/functions/functions.options.php:1019
+#: admin/functions/functions.options.php:1028
+#@ color-theme-framework
+msgid "Yes"
+msgstr ""
+
+#: admin/functions/functions.options.php:430
+#: admin/functions/functions.options.php:447
+#: admin/functions/functions.options.php:585
+#: admin/functions/functions.options.php:1011
+#: admin/functions/functions.options.php:1020
+#: admin/functions/functions.options.php:1029
+#@ color-theme-framework
+msgid "No"
+msgstr ""
+
+#: admin/functions/functions.options.php:434
+#@ color-theme-framework
+msgid "Menu Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:435
+#@ color-theme-framework
+msgid "Select menu position"
+msgstr ""
+
+#: admin/functions/functions.options.php:459
+#@ color-theme-framework
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:460
+#: admin/functions/functions.options.php:840
+#: admin/functions/functions.options.php:1276
+#@ color-theme-framework
+msgid "Pick a background color (default: #FBFBFB)."
+msgstr ""
+
+#: admin/functions/functions.options.php:466
+#@ color-theme-framework
+msgid "Drop-Down Menu Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:467
+#@ color-theme-framework
+msgid "Pick a background color (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:473
+#@ color-theme-framework
+msgid "Drop-Down Menu Hover Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:474
+#@ color-theme-framework
+msgid "Pick a hover background color (default: #FFFFFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:480
+#@ color-theme-framework
+msgid "Background Opacity for Drop-Down Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:481
+#@ color-theme-framework
+msgid "Set opacity for drop-down menu<br /> Min: 0, max: 1, step: 0.01, default value: 0.95"
+msgstr ""
+
+#: admin/functions/functions.options.php:494
+#@ color-theme-framework
+msgid "Menu Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:504
+#@ color-theme-framework
+msgid "Top-level Menu Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:505
+#@ color-theme-framework
+msgid "Choose parameters for top-level menu font"
+msgstr ""
+
+#: admin/functions/functions.options.php:515
+#@ color-theme-framework
+msgid "Top-level Menu Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:516
+#: admin/functions/functions.options.php:827
+#@ color-theme-framework
+msgid "The text-transform property controls the capitalization of text."
+msgstr ""
+
+#: admin/functions/functions.options.php:535
+#: admin/functions/functions.options.php:539
+#@ color-theme-framework
+msgid "Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:540
+#@ color-theme-framework
+msgid "Show/Hide Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:543
+#: admin/functions/functions.options.php:782
+#: admin/functions/functions.options.php:868
+#: admin/functions/functions.options.php:877
+#: admin/functions/functions.options.php:886
+#: admin/functions/functions.options.php:895
+#: admin/functions/functions.options.php:904
+#: admin/functions/functions.options.php:914
+#: admin/functions/functions.options.php:924
+#: admin/functions/functions.options.php:934
+#: admin/functions/functions.options.php:944
+#: admin/functions/functions.options.php:954
+#: admin/functions/functions.options.php:990
+#: admin/functions/functions.options.php:1037
+#: admin/functions/functions.options.php:1065
+#: admin/functions/functions.options.php:1074
+#: admin/functions/functions.options.php:1083
+#: admin/functions/functions.options.php:1092
+#: admin/functions/functions.options.php:1101
+#: admin/functions/functions.options.php:1111
+#: admin/functions/functions.options.php:1121
+#: admin/functions/functions.options.php:1131
+#: admin/functions/functions.options.php:1141
+#: admin/functions/functions.options.php:1151
+#@ color-theme-framework
+msgid "Show"
+msgstr ""
+
+#: admin/functions/functions.options.php:544
+#: admin/functions/functions.options.php:783
+#: admin/functions/functions.options.php:869
+#: admin/functions/functions.options.php:878
+#: admin/functions/functions.options.php:887
+#: admin/functions/functions.options.php:896
+#: admin/functions/functions.options.php:905
+#: admin/functions/functions.options.php:915
+#: admin/functions/functions.options.php:925
+#: admin/functions/functions.options.php:935
+#: admin/functions/functions.options.php:945
+#: admin/functions/functions.options.php:955
+#: admin/functions/functions.options.php:991
+#: admin/functions/functions.options.php:1038
+#: admin/functions/functions.options.php:1066
+#: admin/functions/functions.options.php:1075
+#: admin/functions/functions.options.php:1084
+#: admin/functions/functions.options.php:1093
+#: admin/functions/functions.options.php:1102
+#: admin/functions/functions.options.php:1112
+#: admin/functions/functions.options.php:1122
+#: admin/functions/functions.options.php:1132
+#: admin/functions/functions.options.php:1142
+#: admin/functions/functions.options.php:1152
+#@ color-theme-framework
+msgid "Hide"
+msgstr ""
+
+#: admin/functions/functions.options.php:548
+#: includes/theme-metaboxes.php:155
+#@ color-theme-framework
+msgid "Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:549
+#@ color-theme-framework
+msgid "Pick a background color (default: #1E2021)."
+msgstr ""
+
+#: admin/functions/functions.options.php:556
+#@ color-theme-framework
+msgid "Strip Color (behind Welcome block)"
+msgstr ""
+
+#: admin/functions/functions.options.php:557
+#@ color-theme-framework
+msgid "Pick a background color (default: #2B2E2F)."
+msgstr ""
+
+#: admin/functions/functions.options.php:564
+#: includes/theme-metaboxes.php:162
+#@ color-theme-framework
+msgid "Font Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:565
+#@ color-theme-framework
+msgid "Pick a font color (default: #FFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:572
+#@ color-theme-framework
+msgid "Links Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:573
+#@ color-theme-framework
+msgid "Pick a links color (default: #c2374c)."
+msgstr ""
+
+#: admin/functions/functions.options.php:580
+#@ color-theme-framework
+msgid "Remove Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:581
+#@ color-theme-framework
+msgid "Remove padding for Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:590
+#@ color-theme-framework
+msgid "Text/Code for Welcome Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:591
+#@ color-theme-framework
+msgid "Enter text or code"
+msgstr ""
+
+#: admin/functions/functions.options.php:604
+#@ color-theme-framework
+msgid "Styling Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:608
+#@ color-theme-framework
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:609
+#@ color-theme-framework
+msgid "Pick a background color (default: #3b3f41)."
+msgstr ""
+
+#: admin/functions/functions.options.php:615
+#@ color-theme-framework
+msgid "Links color"
+msgstr ""
+
+#: admin/functions/functions.options.php:616
+#@ color-theme-framework
+msgid "Pick a color for the links (default: #c2374c)"
+msgstr ""
+
+#: admin/functions/functions.options.php:630
+#@ color-theme-framework
+msgid "Use Predefined Background Image / BG Color / Upload Your Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:631
+#@ color-theme-framework
+msgid "Select the type of usage background"
+msgstr ""
+
+#: admin/functions/functions.options.php:638
+#@ color-theme-framework
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/functions/functions.options.php:639
+#@ color-theme-framework
+msgid "Select the background image property"
+msgstr ""
+
+#: admin/functions/functions.options.php:646
+#@ color-theme-framework
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/functions/functions.options.php:654
+#@ color-theme-framework
+msgid "Background Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:655
+#@ color-theme-framework
+msgid "Select the default background position for the background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:662
+#@ color-theme-framework
+msgid "Uploaded Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:663
+#@ color-theme-framework
+msgid "Upload image for background using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:669
+#@ color-theme-framework
+msgid "Predefined Background Images"
+msgstr ""
+
+#: admin/functions/functions.options.php:670
+#@ color-theme-framework
+msgid "Select a background pattern."
+msgstr ""
+
+#: admin/functions/functions.options.php:677
+#@ color-theme-framework
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:678
+#@ color-theme-framework
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:690
+#@ color-theme-framework
+msgid "Headings Styles"
+msgstr ""
+
+#: admin/functions/functions.options.php:694
+#@ color-theme-framework
+msgid "Google Fonts for Headings"
+msgstr ""
+
+#: admin/functions/functions.options.php:695
+#@ color-theme-framework
+msgid "Select Google Font for H1-H6 Headings "
+msgstr ""
+
+#: admin/functions/functions.options.php:708
+#@ color-theme-framework
+msgid "H1 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:709
+#@ color-theme-framework
+msgid "Choose parameters for H1 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:715
+#@ color-theme-framework
+msgid "H2 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:716
+#@ color-theme-framework
+msgid "Choose parameters for H2 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:722
+#@ color-theme-framework
+msgid "H3 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:723
+#@ color-theme-framework
+msgid "Choose parameters for H3 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:729
+#@ color-theme-framework
+msgid "H4 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:730
+#@ color-theme-framework
+msgid "Choose parameters for H4 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:736
+#@ color-theme-framework
+msgid "H5 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:737
+#@ color-theme-framework
+msgid "Choose parameters for H5 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:743
+#@ color-theme-framework
+msgid "H6 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:744
+#@ color-theme-framework
+msgid "Choose parameters for H6 Heading"
+msgstr ""
+
+#: admin/functions/functions.options.php:758
+#@ color-theme-framework
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:762
+#@ color-theme-framework
+msgid "Blog style"
+msgstr ""
+
+#: admin/functions/functions.options.php:763
+#@ color-theme-framework
+msgid "Select your blog style"
+msgstr ""
+
+#: admin/functions/functions.options.php:770
+#@ color-theme-framework
+msgid "Use Excerpt or Content Function"
+msgstr ""
+
+#: admin/functions/functions.options.php:771
+#@ color-theme-framework
+msgid "Select a Excerpt (automatically) or Content (More tag)"
+msgstr ""
+
+#: admin/functions/functions.options.php:787
+#: includes/theme-metaboxes.php:204
+#@ color-theme-framework
+msgid "Length of Excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:788
+#@ color-theme-framework
+msgid "Set length of excerpt in chars<br /> Min: 1, max: 500, step: 1, default value: 100"
+msgstr ""
+
+#: admin/functions/functions.options.php:805
+#@ color-theme-framework
+msgid "Blog Post Meta Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:806
+#@ color-theme-framework
+msgid "Pick a background color (default: #000)."
+msgstr ""
+
+#: admin/functions/functions.options.php:812
+#@ color-theme-framework
+msgid "Blog Post Meta Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:813
+#@ color-theme-framework
+msgid "Pick a color (text, icons) (default: #FFF)."
+msgstr ""
+
+#: admin/functions/functions.options.php:826
+#@ color-theme-framework
+msgid "Blog Post Title Text-Transform"
+msgstr ""
+
+#: admin/functions/functions.options.php:839
+#@ color-theme-framework
+msgid "Pagination Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:846
+#@ color-theme-framework
+msgid "Pagination Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:864
+#@ color-theme-framework
+msgid "Post Meta Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:865
+#: admin/functions/functions.options.php:1062
+#@ color-theme-framework
+msgid "Show/Hide entire meta block"
+msgstr ""
+
+#: admin/functions/functions.options.php:873
+#@ color-theme-framework
+msgid "Post Format Icon"
+msgstr ""
+
+#: admin/functions/functions.options.php:874
+#: admin/functions/functions.options.php:1071
+#@ color-theme-framework
+msgid "Show/Hide blog post format icon"
+msgstr ""
+
+#: admin/functions/functions.options.php:882
+#: admin/functions/functions.options.php:1079
+#@ color-theme-framework
+msgid "Comments"
+msgstr ""
+
+#: admin/functions/functions.options.php:883
+#: admin/functions/functions.options.php:1080
+#@ color-theme-framework
+msgid "Show/Hide blog post comments"
+msgstr ""
+
+#: admin/functions/functions.options.php:891
+#: admin/functions/functions.options.php:1088
+#@ color-theme-framework
+msgid "Share"
+msgstr ""
+
+#: admin/functions/functions.options.php:892
+#: admin/functions/functions.options.php:1089
+#@ color-theme-framework
+msgid "Show/Hide blog post share"
+msgstr ""
+
+#: admin/functions/functions.options.php:900
+#: admin/functions/functions.options.php:1097
+#: functions.php:1149
+#: functions.php:1220
+#: woocommerce/loop/orderby.php:70
+#: woocommerce/myaccount/my-orders.php:33
+#@ color-theme-framework
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: admin/functions/functions.options.php:901
+#: admin/functions/functions.options.php:1098
+#@ color-theme-framework
+msgid "Show/Hide blog post date"
+msgstr ""
+
+#: admin/functions/functions.options.php:910
+#: admin/functions/functions.options.php:1107
+#@ color-theme-framework
+msgid "Date (alt)"
+msgstr ""
+
+#: admin/functions/functions.options.php:911
+#: admin/functions/functions.options.php:1108
+#@ color-theme-framework
+msgid "Show/Hide blog post date (alternative)"
+msgstr ""
+
+#: admin/functions/functions.options.php:920
+#: admin/functions/functions.options.php:1117
+#: functions.php:1142
+#: functions.php:1213
+#@ color-theme-framework
+msgid "Author"
+msgstr ""
+
+#: admin/functions/functions.options.php:921
+#: admin/functions/functions.options.php:1118
+#@ color-theme-framework
+msgid "Show/Hide blog post author"
+msgstr ""
+
+#: admin/functions/functions.options.php:930
+#: admin/functions/functions.options.php:1127
+#: functions/ct-categories-widget.php:126
+#: template-sitemap.php:58
+#@ color-theme-framework
+msgid "Categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:931
+#: admin/functions/functions.options.php:1128
+#@ color-theme-framework
+msgid "Show/Hide blog post categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:940
+#: admin/functions/functions.options.php:1137
+#: functions.php:1121
+#: functions.php:1192
+#@ color-theme-framework
+msgid "Likes"
+msgstr ""
+
+#: admin/functions/functions.options.php:941
+#: admin/functions/functions.options.php:1138
+#@ color-theme-framework
+msgid "Show/Hide blog post likes"
+msgstr ""
+
+#: admin/functions/functions.options.php:950
+#: admin/functions/functions.options.php:1147
+#: functions.php:1005
+#: functions.php:1114
+#: functions.php:1185
+#@ color-theme-framework
+msgid "Views"
+msgstr ""
+
+#: admin/functions/functions.options.php:951
+#: admin/functions/functions.options.php:1148
+#@ color-theme-framework
+msgid "Show/Hide blog post views"
+msgstr ""
+
+#: admin/functions/functions.options.php:967
+#@ color-theme-framework
+msgid "Single Page Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:986
+#@ color-theme-framework
+msgid "Featured image"
+msgstr ""
+
+#: admin/functions/functions.options.php:987
+#@ color-theme-framework
+msgid "Show or Hide featured image in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:995
+#@ color-theme-framework
+msgid "Type of Featured Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:996
+#@ color-theme-framework
+msgid "Choose the type of featured image."
+msgstr ""
+
+#: admin/functions/functions.options.php:1006
+#@ color-theme-framework
+msgid "Stretch thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:1007
+#@ color-theme-framework
+msgid "Stretch or Not thumbnail post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:1015
+#@ color-theme-framework
+msgid "Add PrettyPhoto feature to all post images"
+msgstr ""
+
+#: admin/functions/functions.options.php:1016
+#@ color-theme-framework
+msgid "Add PrettyPhoto feature to all post images with links"
+msgstr ""
+
+#: admin/functions/functions.options.php:1033
+#@ color-theme-framework
+msgid "About Author"
+msgstr ""
+
+#: admin/functions/functions.options.php:1034
+#@ color-theme-framework
+msgid "Show or Hide about author information in the single post"
+msgstr ""
+
+#: admin/functions/functions.options.php:1042
+#@ color-theme-framework
+msgid "Get the custom color for posts from:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1043
+#@ color-theme-framework
+msgid "Choose how to define the color for posts."
+msgstr ""
+
+#: admin/functions/functions.options.php:1061
+#@ color-theme-framework
+msgid "Single Post Meta Block"
+msgstr ""
+
+#: admin/functions/functions.options.php:1070
+#@ color-theme-framework
+msgid "Single Post Format Icon"
+msgstr ""
+
+#: admin/functions/functions.options.php:1157
+#@ color-theme-framework
+msgid "Code for About the author block"
+msgstr ""
+
+#: admin/functions/functions.options.php:1158
+#@ color-theme-framework
+msgid "Paste code for about the author block."
+msgstr ""
+
+#: admin/functions/functions.options.php:1164
+#@ color-theme-framework
+msgid "Code for bookmarking and sharing services"
+msgstr ""
+
+#: admin/functions/functions.options.php:1165
+#@ color-theme-framework
+msgid "Paste code for bookmarking and sharing services (for example: www.addthis.com, www.sharethis.com, etc. )"
+msgstr ""
+
+#: admin/functions/functions.options.php:1272
+#@ color-theme-framework
+msgid "Widgets Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1275
+#@ color-theme-framework
+msgid "Widget Title Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1282
+#@ color-theme-framework
+msgid "Widget Title Border"
+msgstr ""
+
+#: admin/functions/functions.options.php:1305
+#@ color-theme-framework
+msgid "Ads Banner Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1309
+#@ color-theme-framework
+msgid "Show banner: "
+msgstr ""
+
+#: admin/functions/functions.options.php:1310
+#@ color-theme-framework
+msgid "Show or hide banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:1317
+#@ color-theme-framework
+msgid "Site Header Banner Upload"
+msgstr ""
+
+#: admin/functions/functions.options.php:1318
+#@ color-theme-framework
+msgid "Upload images using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:1324
+#@ color-theme-framework
+msgid "Site Header Banner URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:1325
+#@ color-theme-framework
+msgid "Enter clickthrough url for banner in top section"
+msgstr ""
+
+#: admin/functions/functions.options.php:1331
+#@ color-theme-framework
+msgid "Site Header Ads\\Banner Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:1332
+#@ color-theme-framework
+msgid "Paste your Google Adsense (or other) code here."
+msgstr ""
+
+#: admin/functions/functions.options.php:1351
+#@ color-theme-framework
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1355
+#@ color-theme-framework
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:1356
+#@ color-theme-framework
+msgid "Pick a background color (default: #2B2E30)."
+msgstr ""
+
+#: admin/functions/functions.options.php:1369
+#@ color-theme-framework
+msgid "Copyrights for your theme"
+msgstr ""
+
+#: admin/functions/functions.options.php:1370
+#@ color-theme-framework
+msgid "Enter your copyrights."
+msgstr ""
+
+#: admin/functions/functions.options.php:1376
+#@ color-theme-framework
+msgid "Additional Info"
+msgstr ""
+
+#: admin/functions/functions.options.php:1377
+#@ color-theme-framework
+msgid "Enter you additional info"
+msgstr ""
+
+#: admin/functions/functions.options.php:1389
+#@ color-theme-framework
+msgid "Twitter Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1401
+#@ color-theme-framework
+msgid "Consumer Key:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1402
+#: admin/functions/functions.options.php:1409
+#: admin/functions/functions.options.php:1416
+#: admin/functions/functions.options.php:1423
+#@ color-theme-framework
+msgid "Enter Your Twitter App Consumer Key"
+msgstr ""
+
+#: admin/functions/functions.options.php:1408
+#@ color-theme-framework
+msgid "Consumer Secret:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1415
+#@ color-theme-framework
+msgid "Access Token:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1422
+#@ color-theme-framework
+msgid "Access Token Secret:"
+msgstr ""
+
+#: admin/functions/functions.options.php:1435
+#@ color-theme-framework
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1439
+#@ color-theme-framework
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1446
+#@ color-theme-framework
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: archive.php:86
+#, php-format
+#@ color-theme-framework
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:88
+#, php-format
+#@ color-theme-framework
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:88
+#@ color-theme-framework
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:90
+#, php-format
+#@ color-theme-framework
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:90
+#@ color-theme-framework
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:92
+#@ color-theme-framework
+msgid "Archives"
+msgstr ""
+
+#: author.php:88
+#, php-format
+#@ color-theme-framework
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:98
+#@ color-theme-framework
+msgid "Full Name: "
+msgstr ""
+
+#: author.php:100
+#@ color-theme-framework
+msgid "Website: "
+msgstr ""
+
+#: author.php:101
+#@ color-theme-framework
+msgid "Info: "
+msgstr ""
+
+#: category.php:79
+#, php-format
+#@ color-theme-framework
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+#@ color-theme-framework
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+#@ color-theme-framework
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39
+#@ color-theme-framework
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40
+#@ color-theme-framework
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:49
+#@ color-theme-framework
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:103
+#: content-audio.php:105
+#: content-gallery.php:114
+#: content-gallery.php:116
+#: content-gallery.php:120
+#: content-image.php:113
+#: content-image.php:115
+#: content-standard.php:112
+#: content-standard.php:114
+#: content-standard.php:118
+#: content-status.php:112
+#: content-status.php:114
+#: content-status.php:118
+#: content-video.php:103
+#: content-video.php:105
+#, php-format
+#@ color-theme-framework
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-audio.php:116
+#: content-audio.php:135
+#: content-gallery.php:129
+#: content-gallery.php:148
+#: content-image.php:126
+#: content-image.php:145
+#: content-standard.php:127
+#: content-standard.php:146
+#: content-status.php:127
+#: content-status.php:146
+#: content-video.php:116
+#: content-video.php:135
+#@ color-theme-framework
+msgid "featured"
+msgstr ""
+
+#: content-audio.php:117
+#: content-audio.php:136
+#: content-gallery.php:130
+#: content-gallery.php:149
+#: content-image.php:127
+#: content-image.php:146
+#: content-standard.php:128
+#: content-standard.php:147
+#: content-status.php:128
+#: content-status.php:147
+#: content-video.php:117
+#: content-video.php:136
+#@ color-theme-framework
+msgid "review"
+msgstr ""
+
+#: content-audio.php:118
+#: content-audio.php:137
+#: content-gallery.php:131
+#: content-gallery.php:150
+#: content-image.php:128
+#: content-image.php:147
+#: content-standard.php:129
+#: content-standard.php:148
+#: content-status.php:129
+#: content-status.php:148
+#: content-video.php:118
+#: content-video.php:137
+#@ color-theme-framework
+msgid "standard"
+msgstr ""
+
+#: content-audio.php:196
+#: content-gallery.php:214
+#: content-image.php:219
+#: content-standard.php:221
+#: content-status.php:221
+#: content-video.php:273
+#@ color-theme-framework
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-audio.php:197
+#: content-gallery.php:215
+#: content-image.php:220
+#: content-page.php:18
+#: content-standard.php:222
+#: content-status.php:222
+#: content-video.php:274
+#: functions.php:1524
+#@ color-theme-framework
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:210
+#: content-gallery.php:228
+#: content-image.php:233
+#: content-page.php:21
+#: content-standard.php:235
+#: content-status.php:235
+#: content-video.php:287
+#: functions.php:1915
+#: template-contacts.php:108
+#: woocommerce/myaccount/my-address.php:45
+#@ color-theme-framework
+#@ woocommerce
+msgid "Edit"
+msgstr ""
+
+#: content-audio.php:228
+#: content-audio.php:256
+#: content-gallery.php:246
+#: content-gallery.php:274
+#: content-image.php:251
+#: content-image.php:279
+#: content-standard.php:253
+#: content-standard.php:281
+#: content-status.php:253
+#: content-status.php:281
+#: content-video.php:305
+#: content-video.php:333
+#@ color-theme-framework
+msgid "Leave a reply"
+msgstr ""
+
+#: content-audio.php:228
+#: content-audio.php:256
+#: content-gallery.php:246
+#: content-gallery.php:274
+#: content-image.php:251
+#: content-image.php:279
+#: content-standard.php:253
+#: content-standard.php:281
+#: content-status.php:253
+#: content-status.php:281
+#: content-video.php:305
+#: content-video.php:333
+#@ color-theme-framework
+msgid "1 Reply"
+msgstr ""
+
+#: content-audio.php:228
+#: content-audio.php:256
+#: content-gallery.php:246
+#: content-gallery.php:274
+#: content-image.php:251
+#: content-image.php:279
+#: content-standard.php:253
+#: content-standard.php:281
+#: content-status.php:253
+#: content-status.php:281
+#: content-video.php:305
+#: content-video.php:333
+#@ color-theme-framework
+msgid "% Replies"
+msgstr ""
+
+#: content-audio.php:235
+#: content-audio.php:263
+#: content-gallery.php:253
+#: content-gallery.php:281
+#: content-image.php:258
+#: content-image.php:286
+#: content-standard.php:260
+#: content-standard.php:288
+#: content-status.php:260
+#: content-status.php:288
+#: content-video.php:312
+#: content-video.php:340
+#@ color-theme-framework
+msgid "Share This"
+msgstr ""
+
+#: content-none.php:13
+#: search.php:134
+#@ color-theme-framework
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#@ color-theme-framework
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: content-video.php:186
+#: functions/ct-carousel-widget.php:180
+#@ color-theme-framework
+msgid "Watch Youtube Video"
+msgstr ""
+
+#: content-video.php:214
+#: functions/ct-carousel-widget.php:183
+#@ color-theme-framework
+msgid "Watch Vimeo Video"
+msgstr ""
+
+#: content-video.php:240
+#: functions/ct-carousel-widget.php:186
+#@ color-theme-framework
+msgid "Watch DailyMotion Video"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:39
+#@ color-theme-framework
+msgid "Carousel widget"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:45
+#@ color-theme-framework
+msgid "CT: Carousel Widget"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:200
+#@ color-theme-framework
+msgid "View all posts in "
+msgstr ""
+
+#: functions/ct-carousel-widget.php:230
+#: functions/ct-recent-posts-widget.php:138
+#@ color-theme-framework
+msgid "No posts were found for display"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:284
+#: functions/ct-categories-widget.php:132
+#: functions/ct-flickr-widget.php:167
+#: functions/ct-instagram-widget.php:170
+#: functions/ct-popular-posts-widget.php:275
+#: functions/ct-recent-posts-widget.php:202
+#: functions/ct-related-posts-thumbs-widget.php:186
+#: functions/ct-small-slider-widget.php:243
+#: functions/ct-text-widget.php:174
+#: functions/ct-twitter-widget.php:263
+#@ color-theme-framework
+msgid "Title:"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:289
+#: functions/ct-popular-posts-widget.php:343
+#: functions/ct-recent-posts-widget.php:257
+#: functions/ct-small-slider-widget.php:319
+#@ color-theme-framework
+msgid "Filter by Category:"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:310
+#@ color-theme-framework
+msgid "Type of text to show:"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:320
+#: functions/ct-popular-posts-widget.php:291
+#: functions/ct-recent-posts-widget.php:214
+#@ color-theme-framework
+msgid "Show related category posts"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:325
+#: functions/ct-related-posts-thumbs-widget.php:197
+#: functions/ct-small-slider-widget.php:289
+#@ color-theme-framework
+msgid "Random order"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:330
+#@ color-theme-framework
+msgid "Animate carousel automatically"
+msgstr ""
+
+#: functions/ct-carousel-widget.php:334
+#: functions/ct-popular-posts-widget.php:280
+#: functions/ct-recent-posts-widget.php:208
+#: functions/ct-small-slider-widget.php:293
+#@ color-theme-framework
+msgid "Number of posts:"
+msgstr ""
+
+#: functions/ct-categories-widget.php:41
+#@ color-theme-framework
+msgid "Two columns categories widget"
+msgstr ""
+
+#: functions/ct-categories-widget.php:47
+#@ color-theme-framework
+msgid "CT: Categories Widget"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:41
+#@ color-theme-framework
+msgid "CT: Flickr Widget"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:156
+#@ color-theme-framework
+msgid "Flickr"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:172
+#@ color-theme-framework
+msgid "User ID:"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:177
+#: functions/ct-instagram-widget.php:190
+#@ color-theme-framework
+msgid "The number of displayed images:"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:182
+#@ color-theme-framework
+msgid "Image size (height/width):"
+msgstr ""
+
+#: functions/ct-flickr-widget.php:187
+#: functions/ct-instagram-widget.php:195
+#@ color-theme-framework
+msgid "Feed type:"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:41
+#@ color-theme-framework
+msgid "CT: Instagram Widget"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:158
+#@ color-theme-framework
+msgid "Instagram Feed"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:175
+#@ color-theme-framework
+msgid "Your Instagram application clientID:"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:180
+#@ color-theme-framework
+msgid "Your Instagram access token:"
+msgstr ""
+
+#: functions/ct-instagram-widget.php:185
+#@ color-theme-framework
+msgid "Query (user name or tag):"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:41
+#@ color-theme-framework
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:51
+#@ color-theme-framework
+msgid "CT: Popular Posts"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:191
+#: functions/ct-popular-posts-widget.php:197
+#: functions/ct-popular-posts-widget.php:205
+#: functions/ct-recent-posts-widget.php:115
+#: functions/ct-recent-posts-widget.php:121
+#: functions/ct-recent-posts-widget.php:129
+#: functions/ct-small-slider-widget.php:158
+#: functions.php:1727
+#: functions.php:1729
+#@ color-theme-framework
+msgid "Permalink to "
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:257
+#@ color-theme-framework
+msgid "Most Popular"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:285
+#@ color-theme-framework
+msgid "Show popular posts from the last N days (default 0 - show all):"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:296
+#: functions/ct-recent-posts-widget.php:219
+#@ color-theme-framework
+msgid "Show thumbnail image"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:300
+#: functions/ct-recent-posts-widget.php:223
+#@ color-theme-framework
+msgid "Post meta info"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:305
+#: functions/ct-recent-posts-widget.php:228
+#: functions/ct-small-slider-widget.php:254
+#@ color-theme-framework
+msgid "Show likes"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:310
+#: functions/ct-recent-posts-widget.php:233
+#: functions/ct-small-slider-widget.php:259
+#@ color-theme-framework
+msgid "Show views"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:315
+#: functions/ct-recent-posts-widget.php:238
+#: functions/ct-small-slider-widget.php:264
+#@ color-theme-framework
+msgid "Show category"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:320
+#: functions/ct-recent-posts-widget.php:243
+#: functions/ct-small-slider-widget.php:269
+#@ color-theme-framework
+msgid "Show author"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:325
+#: functions/ct-recent-posts-widget.php:248
+#: functions/ct-small-slider-widget.php:274
+#@ color-theme-framework
+msgid "Show date"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:330
+#: functions/ct-recent-posts-widget.php:253
+#: functions/ct-small-slider-widget.php:279
+#@ color-theme-framework
+msgid "Show comments"
+msgstr ""
+
+#: functions/ct-popular-posts-widget.php:334
+#@ color-theme-framework
+msgid "Order by:"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:41
+#@ color-theme-framework
+msgid "Display recent posts by categories (or related)"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:47
+#@ color-theme-framework
+msgid "CT: Recent Posts"
+msgstr ""
+
+#: functions/ct-recent-posts-widget.php:184
+#@ color-theme-framework
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:40
+#@ color-theme-framework
+msgid "A widget that show related posts by tags or category"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:46
+#@ color-theme-framework
+msgid "CT: Related Posts Thumbs"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:106
+#: functions/ct-related-posts-thumbs-widget.php:107
+#: functions/ct-related-posts-thumbs-widget.php:139
+#: functions/ct-small-slider-widget.php:172
+#@ color-theme-framework
+msgid "No related posts were found"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:177
+#@ color-theme-framework
+msgid "Related Posts"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:191
+#@ color-theme-framework
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/ct-related-posts-thumbs-widget.php:201
+#@ color-theme-framework
+msgid "Show related posts by:"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:41
+#@ color-theme-framework
+msgid "Small Flex Slider widget"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:51
+#@ color-theme-framework
+msgid "CT: Small Slider Widget"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:221
+#@ color-theme-framework
+msgid "Featured Slider"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:249
+#@ color-theme-framework
+msgid "Animate slider automatically"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:284
+#@ color-theme-framework
+msgid "Show related category posts (for posts, category pages, etc.)"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:299
+#@ color-theme-framework
+msgid "Slideshow speed, in millisec:"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:305
+#@ color-theme-framework
+msgid "Animation speed, in millisec:"
+msgstr ""
+
+#: functions/ct-small-slider-widget.php:311
+#@ color-theme-framework
+msgid "Animation type:"
+msgstr ""
+
+#: functions/ct-text-widget.php:42
+#@ color-theme-framework
+msgid "Advanced Text Widget"
+msgstr ""
+
+#: functions/ct-text-widget.php:52
+#@ color-theme-framework
+msgid "CT: Advanced Text Widget"
+msgstr ""
+
+#: functions/ct-text-widget.php:140
+#@ color-theme-framework
+msgid "Text"
+msgstr ""
+
+#: functions/ct-text-widget.php:184
+#@ color-theme-framework
+msgid "Remove background"
+msgstr ""
+
+#: functions/ct-text-widget.php:189
+#@ color-theme-framework
+msgid "Remove margins"
+msgstr ""
+
+#: functions/ct-text-widget.php:193
+#@ color-theme-framework
+msgid "Text align:"
+msgstr ""
+
+#: functions/ct-text-widget.php:202
+#@ color-theme-framework
+msgid "Text transform:"
+msgstr ""
+
+#: functions/ct-text-widget.php:212
+#@ color-theme-framework
+msgid "Font style:"
+msgstr ""
+
+#: functions/ct-text-widget.php:220
+#@ color-theme-framework
+msgid "Font weight:"
+msgstr ""
+
+#: functions/ct-text-widget.php:228
+#@ color-theme-framework
+msgid "Font size (px):"
+msgstr ""
+
+#: functions/ct-text-widget.php:233
+#@ color-theme-framework
+msgid "Line height (px):"
+msgstr ""
+
+#: functions/ct-text-widget.php:238
+#@ color-theme-framework
+msgid "Font color:"
+msgstr ""
+
+#: functions/ct-text-widget.php:244
+#@ color-theme-framework
+msgid "Background color:"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:35
+#@ color-theme-framework
+msgid "Twitter Widget"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:41
+#@ color-theme-framework
+msgid "CT: Twitter Widget"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:173
+#@ color-theme-framework
+msgid " seconds ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:175
+#@ color-theme-framework
+msgid "about 1 minute ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:177
+#@ color-theme-framework
+msgid " minutes ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:179
+#@ color-theme-framework
+msgid "about 1 hour ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:181
+#@ color-theme-framework
+msgid " hours ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:183
+#@ color-theme-framework
+msgid "yesterday"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:185
+#@ color-theme-framework
+msgid " days ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:187
+#@ color-theme-framework
+msgid "over a year ago"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:258
+#@ color-theme-framework
+msgid "Also, be sure to fill the Twitter Settings (menu Appearance -> Theme Options -> Twitter settings)"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:269
+#@ color-theme-framework
+msgid "Twitter Username:"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:275
+#@ color-theme-framework
+msgid "Tweets to display"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:280
+#@ color-theme-framework
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: functions/ct-twitter-widget.php:282
+#@ color-theme-framework
+msgid "hours"
+msgstr ""
+
+#: functions.php:82
+#: includes/class-tgm-plugin-activation.php:164
+#@ color-theme-framework
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:83
+#: includes/class-tgm-plugin-activation.php:165
+#@ color-theme-framework
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:84
+#: includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ color-theme-framework
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:85
+#@ color-theme-framework
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:86
+#: includes/class-tgm-plugin-activation.php:168
+#, php-format
+#@ color-theme-framework
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:87
+#: includes/class-tgm-plugin-activation.php:169
+#, php-format
+#@ color-theme-framework
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:88
+#: includes/class-tgm-plugin-activation.php:170
+#, php-format
+#@ color-theme-framework
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:89
+#: includes/class-tgm-plugin-activation.php:171
+#, php-format
+#@ color-theme-framework
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:90
+#: includes/class-tgm-plugin-activation.php:172
+#, php-format
+#@ color-theme-framework
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:91
+#: includes/class-tgm-plugin-activation.php:173
+#, php-format
+#@ color-theme-framework
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:92
+#: includes/class-tgm-plugin-activation.php:174
+#, php-format
+#@ color-theme-framework
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:93
+#: includes/class-tgm-plugin-activation.php:175
+#, php-format
+#@ color-theme-framework
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:94
+#: includes/class-tgm-plugin-activation.php:176
+#@ color-theme-framework
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:95
+#: includes/class-tgm-plugin-activation.php:177
+#@ color-theme-framework
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:96
+#: includes/class-tgm-plugin-activation.php:178
+#: includes/class-tgm-plugin-activation.php:490
+#@ color-theme-framework
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:97
+#: includes/class-tgm-plugin-activation.php:179
+#: includes/class-tgm-plugin-activation.php:1846
+#@ color-theme-framework
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:98
+#, php-format
+#@ color-theme-framework
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:116
+#@ color-theme-framework
+msgid "main navigation"
+msgstr ""
+
+#: functions.php:257
+#, php-format
+#@ color-theme-framework
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:273
+#@ color-theme-framework
+msgid "Appears on the top of Homepage"
+msgstr ""
+
+#: functions.php:283
+#@ color-theme-framework
+msgid "Appears on the Homepage"
+msgstr ""
+
+#: functions.php:293
+#@ color-theme-framework
+msgid "Appears on the Single post page"
+msgstr ""
+
+#: functions.php:303
+#@ color-theme-framework
+msgid "Appears on the Single post page (very top)"
+msgstr ""
+
+#: functions.php:313
+#@ color-theme-framework
+msgid "Appears on the Category page (very top)"
+msgstr ""
+
+#: functions.php:323
+#: functions.php:333
+#@ color-theme-framework
+msgid "Appears on the Category page"
+msgstr ""
+
+#: functions.php:343
+#@ color-theme-framework
+msgid "Appears on the Pages"
+msgstr ""
+
+#: functions.php:421
+#@ color-theme-framework
+msgid "Featured"
+msgstr ""
+
+#: functions.php:711
+#@ color-theme-framework
+msgid "<em>Loading the next set of posts...</em>"
+msgstr ""
+
+#: functions.php:727
+#@ color-theme-framework
+msgid "MENU"
+msgstr ""
+
+#: functions.php:728
+#@ color-theme-framework
+msgid "To the Top"
+msgstr ""
+
+#: functions.php:1758
+#@ color-theme-framework
+msgid "Page "
+msgstr ""
+
+#: functions.php:1758
+#@ color-theme-framework
+msgid "of"
+msgstr ""
+
+#: functions.php:1761
+#: functions.php:1763
+#@ color-theme-framework
+msgid "First"
+msgstr ""
+
+#: functions.php:1768
+#: functions.php:1770
+#@ color-theme-framework
+msgid "Previous"
+msgstr ""
+
+#: functions.php:1782
+#: functions.php:1784
+#@ color-theme-framework
+msgid "Next"
+msgstr ""
+
+#: functions.php:1788
+#: functions.php:1790
+#@ color-theme-framework
+msgid "Last"
+msgstr ""
+
+#: functions.php:928
+#@ color-theme-framework
+msgid "Error retrieving video information from the URL"
+msgstr ""
+
+#: functions.php:1107
+#: functions.php:1180
+#@ color-theme-framework
+msgid "0"
+msgstr ""
+
+#: functions.php:1107
+#: functions.php:1180
+#@ color-theme-framework
+msgid "1"
+msgstr ""
+
+#: functions.php:1107
+#: functions.php:1180
+#@ color-theme-framework
+msgid "%"
+msgstr ""
+
+#: functions.php:1127
+#: functions.php:1198
+#: woocommerce/content-product.php:122
+#@ color-theme-framework
+msgid "Category"
+msgstr ""
+
+#: functions.php:1137
+#: functions.php:1208
+#, php-format
+#@ color-theme-framework
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:1229
+#@ color-theme-framework
+msgid "Tags"
+msgstr ""
+
+#: functions.php:1252
+#@ color-theme-framework
+msgid "Share on Pinterest"
+msgstr ""
+
+#: functions.php:1253
+#@ color-theme-framework
+msgid "Share on Facebook"
+msgstr ""
+
+#: functions.php:1254
+#@ color-theme-framework
+msgid "Share on Twitter"
+msgstr ""
+
+#: functions.php:1255
+#@ color-theme-framework
+msgid "Share on Google Plus"
+msgstr ""
+
+#: functions.php:1287
+#@ color-theme-framework
+msgid "Anonymous"
+msgstr ""
+
+#: functions.php:1529
+#@ color-theme-framework
+msgid "Next page"
+msgstr ""
+
+#: functions.php:1530
+#@ color-theme-framework
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:1649
+#@ color-theme-framework
+msgid "Review Score: "
+msgstr ""
+
+#: functions.php:1714
+#@ color-theme-framework
+msgid "Criteria Score: "
+msgstr ""
+
+#: functions.php:1879
+#@ color-theme-framework
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1879
+#@ color-theme-framework
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:1893
+#@ color-theme-framework
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:1904
+#, php-format
+#@ color-theme-framework
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1910
+#@ color-theme-framework
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1921
+#: functions.php:1923
+#@ color-theme-framework
+msgid "Reply"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:167
+#@ color-theme-framework
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:180
+#, php-format
+#@ color-theme-framework
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:517
+#: includes/class-tgm-plugin-activation.php:2058
+#@ color-theme-framework
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:545
+#, php-format
+#@ color-theme-framework
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:704
+#@ color-theme-framework
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1091
+#@ color-theme-framework
+msgid "External Link"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1096
+#@ color-theme-framework
+msgid "Private Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1099
+#@ color-theme-framework
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1103
+#@ color-theme-framework
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1106
+#@ color-theme-framework
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1106
+#@ color-theme-framework
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1109
+#@ color-theme-framework
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1111
+#@ color-theme-framework
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ color-theme-framework
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1297
+#@ color-theme-framework
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1298
+#@ color-theme-framework
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1299
+#@ color-theme-framework
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1300
+#: woocommerce/myaccount/my-orders.php:34
+#@ color-theme-framework
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1318
+#@ color-theme-framework
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1319
+#@ color-theme-framework
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1544
+#@ color-theme-framework
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:1829
+#@ color-theme-framework
+msgid "Install package not available."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ color-theme-framework
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1831
+#@ color-theme-framework
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1832
+#@ color-theme-framework
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1833
+#@ color-theme-framework
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1834
+#@ color-theme-framework
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1845
+#@ color-theme-framework
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1955
+#@ color-theme-framework
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ color-theme-framework
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1965
+#@ color-theme-framework
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1956
+#: includes/class-tgm-plugin-activation.php:1965
+#@ color-theme-framework
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1957
+#@ color-theme-framework
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ color-theme-framework
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1962
+#@ color-theme-framework
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ color-theme-framework
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ color-theme-framework
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ color-theme-framework
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1966
+#@ color-theme-framework
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ color-theme-framework
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/sidebar-generator.php:60
+#@ color-theme-framework
+msgid "Custom Sidebar. Appears on posts or pages"
+msgstr ""
+
+#: admin/functions/functions.options.php:232
+#: includes/sidebar-generator.php:176
+#: includes/sidebar-generator.php:197
+#@ color-theme-framework
+msgid "Custom Sidebars"
+msgstr ""
+
+#: includes/sidebar-generator.php:227
+#@ color-theme-framework
+msgid "No Sidebars defined"
+msgstr ""
+
+#: includes/sidebar-generator.php:280
+#@ color-theme-framework
+msgid "Select the custom sidebar, leave unselected to use the default sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:34
+#@ color-theme-framework
+msgid "Custom Page Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:40
+#@ color-theme-framework
+msgid "Allow Comments"
+msgstr ""
+
+#: includes/theme-metaboxes.php:46
+#@ color-theme-framework
+msgid "Custom Page Description"
+msgstr ""
+
+#: includes/theme-metaboxes.php:47
+#@ color-theme-framework
+msgid "Text for page description. Appears under page title."
+msgstr ""
+
+#: includes/theme-metaboxes.php:62
+#: includes/theme-metaboxes.php:68
+#@ color-theme-framework
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:71
+#@ color-theme-framework
+msgid "Select Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:85
+#@ color-theme-framework
+msgid "Custom Background Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:91
+#@ color-theme-framework
+msgid "Custom Background Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:96
+#@ color-theme-framework
+msgid "Upload a custom background image for this page. Once uploaded, click \"Insert to Post\"."
+msgstr ""
+
+#: includes/theme-metaboxes.php:99
+#@ color-theme-framework
+msgid "Custom Background Repeat"
+msgstr ""
+
+#: includes/theme-metaboxes.php:102
+#: includes/theme-metaboxes.php:114
+#: includes/theme-metaboxes.php:126
+#: includes/theme-metaboxes.php:194
+#: includes/theme-metaboxes.php:254
+#: includes/theme-metaboxes.php:276
+#: includes/theme-metaboxes.php:301
+#: includes/theme-metaboxes.php:332
+#@ color-theme-framework
+msgid "Select an Item"
+msgstr ""
+
+#: includes/theme-metaboxes.php:111
+#@ color-theme-framework
+msgid "Custom Background Position"
+msgstr ""
+
+#: includes/theme-metaboxes.php:123
+#@ color-theme-framework
+msgid "Custom Background Attachment"
+msgstr ""
+
+#: includes/theme-metaboxes.php:133
+#@ color-theme-framework
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/theme-metaboxes.php:136
+#@ color-theme-framework
+msgid "Select a custom background color for the uploaded image."
+msgstr ""
+
+#: includes/theme-metaboxes.php:149
+#@ color-theme-framework
+msgid "General Post Settings"
+msgstr ""
+
+#: includes/theme-metaboxes.php:158
+#@ color-theme-framework
+msgid "Select a custom background color for the post."
+msgstr ""
+
+#: includes/theme-metaboxes.php:165
+#@ color-theme-framework
+msgid "Select a custom font color for the post."
+msgstr ""
+
+#: includes/theme-metaboxes.php:170
+#@ color-theme-framework
+msgid "Title Block"
+msgstr ""
+
+#: includes/theme-metaboxes.php:171
+#@ color-theme-framework
+msgid "Show Title Block (title + post format icon)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:177
+#@ color-theme-framework
+msgid "Content Block"
+msgstr ""
+
+#: includes/theme-metaboxes.php:178
+#@ color-theme-framework
+msgid "Show Content Block (text + comments + share)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:184
+#@ color-theme-framework
+msgid "Meta Block"
+msgstr ""
+
+#: includes/theme-metaboxes.php:185
+#@ color-theme-framework
+msgid "Show Meta Block (date, author, likes, etc.)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:191
+#@ color-theme-framework
+msgid "Post width (for tumblelog layout)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:217
+#@ color-theme-framework
+msgid "Custom URL for post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:219
+#@ color-theme-framework
+msgid "Paste a custom URL for post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:229
+#@ color-theme-framework
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: includes/theme-metaboxes.php:233
+#@ color-theme-framework
+msgid "Add Images for Gallery"
+msgstr ""
+
+#: includes/theme-metaboxes.php:245
+#@ color-theme-framework
+msgid "Post Format: Video"
+msgstr ""
+
+#: includes/theme-metaboxes.php:251
+#@ color-theme-framework
+msgid "Type of Video"
+msgstr ""
+
+#: includes/theme-metaboxes.php:264
+#@ color-theme-framework
+msgid "Video ID"
+msgstr ""
+
+#: includes/theme-metaboxes.php:266
+#@ color-theme-framework
+msgid "Enter Video ID (example: WluQQiXKVc8)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:272
+#@ color-theme-framework
+msgid "Type of Video Thumbnail"
+msgstr ""
+
+#: includes/theme-metaboxes.php:273
+#@ color-theme-framework
+msgid "Choose the type of thumbnail: auto generated from video service or use featured image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:291
+#@ color-theme-framework
+msgid "Post Format: Audio"
+msgstr ""
+
+#: includes/theme-metaboxes.php:297
+#@ color-theme-framework
+msgid "Type of Audio Thumbnail (for Blog, Widgets, etc.)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:309
+#@ color-theme-framework
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/theme-metaboxes.php:311
+#@ color-theme-framework
+msgid "Paste code from Soundcloud Service"
+msgstr ""
+
+#: includes/theme-metaboxes.php:324
+#@ color-theme-framework
+msgid "Settings for Review"
+msgstr ""
+
+#: includes/theme-metaboxes.php:329
+#@ color-theme-framework
+msgid "Select Type of Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:335
+#@ color-theme-framework
+msgid "Standard Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:336
+#@ color-theme-framework
+msgid "Review Post"
+msgstr ""
+
+#: includes/theme-metaboxes.php:344
+#@ color-theme-framework
+msgid "Color for Score Stars"
+msgstr ""
+
+#: includes/theme-metaboxes.php:352
+#@ color-theme-framework
+msgid "Color for Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:361
+#@ color-theme-framework
+msgid "Overall Score Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:365
+#@ color-theme-framework
+msgid "Enter name for Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:368
+#@ color-theme-framework
+msgid "Overall Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:375
+#@ color-theme-framework
+msgid "Overall Score ( from 0.5 to 5 )"
+msgstr ""
+
+#: includes/theme-metaboxes.php:377
+#: includes/theme-metaboxes.php:411
+#: includes/theme-metaboxes.php:444
+#: includes/theme-metaboxes.php:477
+#: includes/theme-metaboxes.php:510
+#: includes/theme-metaboxes.php:542
+#@ color-theme-framework
+msgid "Select Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:399
+#@ color-theme-framework
+msgid "Criteria #1 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:401
+#@ color-theme-framework
+msgid "Enter name for Criteria #1"
+msgstr ""
+
+#: includes/theme-metaboxes.php:403
+#@ color-theme-framework
+msgid "Criteria #1"
+msgstr ""
+
+#: includes/theme-metaboxes.php:408
+#@ color-theme-framework
+msgid "Criteria #1 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:432
+#@ color-theme-framework
+msgid "Criteria #2 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:434
+#@ color-theme-framework
+msgid "Enter name for Criteria #2"
+msgstr ""
+
+#: includes/theme-metaboxes.php:436
+#@ color-theme-framework
+msgid "Criteria #2"
+msgstr ""
+
+#: includes/theme-metaboxes.php:441
+#@ color-theme-framework
+msgid "Criteria #2 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:465
+#@ color-theme-framework
+msgid "Criteria #3 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:467
+#@ color-theme-framework
+msgid "Enter name for Criteria #3"
+msgstr ""
+
+#: includes/theme-metaboxes.php:469
+#@ color-theme-framework
+msgid "Criteria #3"
+msgstr ""
+
+#: includes/theme-metaboxes.php:474
+#@ color-theme-framework
+msgid "Criteria #3 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:498
+#@ color-theme-framework
+msgid "Criteria #4 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:500
+#@ color-theme-framework
+msgid "Enter name for Criteria #4"
+msgstr ""
+
+#: includes/theme-metaboxes.php:502
+#@ color-theme-framework
+msgid "Criteria #4"
+msgstr ""
+
+#: includes/theme-metaboxes.php:507
+#@ color-theme-framework
+msgid "Criteria #4 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:530
+#@ color-theme-framework
+msgid "Criteria #5 Name"
+msgstr ""
+
+#: includes/theme-metaboxes.php:532
+#@ color-theme-framework
+msgid "Enter name for Criteria #5"
+msgstr ""
+
+#: includes/theme-metaboxes.php:534
+#@ color-theme-framework
+msgid "Criteria #5"
+msgstr ""
+
+#: includes/theme-metaboxes.php:539
+#@ color-theme-framework
+msgid "Criteria #5 Score"
+msgstr ""
+
+#: includes/theme-metaboxes.php:561
+#@ color-theme-framework
+msgid "Summary"
+msgstr ""
+
+#: includes/theme-metaboxes.php:562
+#@ color-theme-framework
+msgid "Enter your text"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:299
+#@ color-theme-framework
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:360
+#@ color-theme-framework
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:382
+#@ color-theme-framework
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/file-advanced.php:62
+#@ color-theme-framework
+msgctxt "file upload"
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:66
+#@ color-theme-framework
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:80
+#@ color-theme-framework
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:81
+#@ color-theme-framework
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:133
+#@ color-theme-framework
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:134
+#@ color-theme-framework
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/image-advanced.php:68
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:64
+#@ color-theme-framework
+msgid "Order saved"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:78
+#: meta-box/inc/fields/thickbox-image.php:35
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:79
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:144
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:145
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:46
+#@ color-theme-framework
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:104
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:105
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:106
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: meta-box/inc/fields/plupload-image.php:181
+#@ color-theme-framework
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:54
+#@ color-theme-framework
+msgid "Post"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:68
+#: meta-box/inc/fields/taxonomy.php:40
+#, php-format
+#@ color-theme-framework
+msgid "Select a %s"
+msgstr ""
+
+#: meta-box/inc/fields/select-advanced.php:71
+#@ color-theme-framework
+msgid "Select a value"
+msgstr ""
+
+#: post-like.php:86
+#: post-like.php:88
+#@ color-theme-framework
+msgid "I like this article"
+msgstr ""
+
+#: search.php:77
+#@ color-theme-framework
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:139
+#@ color-theme-framework
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:11
+#: searchform.php:12
+#@ color-theme-framework
+msgid "Search"
+msgstr ""
+
+#: single.php:84
+#@ color-theme-framework
+msgid "About the author"
+msgstr ""
+
+#: single.php:105
+#@ color-theme-framework
+msgid "View all articles by "
+msgstr ""
+
+#: single.php:112
+#@ color-theme-framework
+msgid "Post navigation"
+msgstr ""
+
+#: single.php:116
+#@ color-theme-framework
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:122
+#@ color-theme-framework
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: tag.php:78
+#, php-format
+#@ color-theme-framework
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-archives.php:39
+#@ color-theme-framework
+msgid "Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:49
+#@ color-theme-framework
+msgid "Archives by Month:"
+msgstr ""
+
+#: template-archives.php:56
+#@ color-theme-framework
+msgid "Archives by Subject:"
+msgstr ""
+
+#: template-contacts.php:56
+#@ color-theme-framework
+msgid "Message was sent to website administrator. Thank you!"
+msgstr ""
+
+#: template-contacts.php:81
+#@ color-theme-framework
+msgid "Your Name"
+msgstr ""
+
+#: template-contacts.php:84
+#@ color-theme-framework
+msgid "Your Email Address"
+msgstr ""
+
+#: template-contacts.php:87
+#@ color-theme-framework
+msgid "Your URL"
+msgstr ""
+
+#: template-contacts.php:90
+#@ color-theme-framework
+msgid "Subject"
+msgstr ""
+
+#: template-contacts.php:97
+#@ color-theme-framework
+msgid "Type your questions here..."
+msgstr ""
+
+#: template-contacts.php:98
+#@ color-theme-framework
+msgid "Send Message"
+msgstr ""
+
+#: template-sitemap.php:34
+#@ color-theme-framework
+msgid "Posts"
+msgstr ""
+
+#: template-sitemap.php:69
+#@ color-theme-framework
+msgid "Pages"
+msgstr ""
+
+#: admin/functions/functions.options.php:233
+#@ color-theme-framework
+msgid "Enable/Disable Custom Sidebars feature"
+msgstr ""
+
+#: admin/functions/functions.options.php:241
+#@ color-theme-framework
+msgid "Retina JS"
+msgstr ""
+
+#: admin/functions/functions.options.php:242
+#@ color-theme-framework
+msgid "Enable/Disable JavaScript helper for rendering high-resolution image variants. retina.js makes it easy to serve high-resolution images to devices with retina displays."
+msgstr ""
+
+#: admin/functions/functions.options.php:283
+#@ color-theme-framework
+msgid "Header Top Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:284
+#@ color-theme-framework
+msgid "Set the top padding for header <br /> Min: 0, max: 100, step: 1, default value: 50"
+msgstr ""
+
+#: admin/functions/functions.options.php:293
+#@ color-theme-framework
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: admin/functions/functions.options.php:294
+#@ color-theme-framework
+msgid "Set the right padding for header <br /> Min: 0, max: 100, step: 1, default value: 50"
+msgstr ""
+
+#: admin/functions/functions.options.php:386
+#@ color-theme-framework
+msgid "iOS icon 60x60 px"
+msgstr ""
+
+#: admin/functions/functions.options.php:387
+#@ color-theme-framework
+msgid "Upload iOS icon 60x60 px using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:393
+#@ color-theme-framework
+msgid "iOS icon 76x76 px"
+msgstr ""
+
+#: admin/functions/functions.options.php:394
+#@ color-theme-framework
+msgid "Upload iOS icon 76x76 px using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:400
+#@ color-theme-framework
+msgid "iOS icon 120x120 px"
+msgstr ""
+
+#: admin/functions/functions.options.php:401
+#@ color-theme-framework
+msgid "Upload iOS icon 120x120 px using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:407
+#@ color-theme-framework
+msgid "iOS icon 152x152 px"
+msgstr ""
+
+#: admin/functions/functions.options.php:408
+#@ color-theme-framework
+msgid "Upload iOS icon 152x152 px using the native media uploader, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:442
+#@ color-theme-framework
+msgid "Use Google Font for the Menu "
+msgstr ""
+
+#: admin/functions/functions.options.php:443
+#@ color-theme-framework
+msgid "Use Google Font for the Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:451
+#@ color-theme-framework
+msgid "Google Font for the Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:452
+#@ color-theme-framework
+msgid "Select the Google Font for the Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:487
+#@ color-theme-framework
+msgid "Minimum width for Drop-Down Menu"
+msgstr ""
+
+#: admin/functions/functions.options.php:488
+#@ color-theme-framework
+msgid "Set minimum width for drop-down menu in em<br /> Min: 0, max: 30, step: 0.5, default value: 12em"
+msgstr ""
+
+#: admin/functions/functions.options.php:778
+#@ color-theme-framework
+msgid "Read more button for excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:779
+#@ color-theme-framework
+msgid "Show/Hide"
+msgstr ""
+
+#: admin/functions/functions.options.php:1024
+#@ color-theme-framework
+msgid "Use colored background for content"
+msgstr ""
+
+#: admin/functions/functions.options.php:1025
+#@ color-theme-framework
+msgid "Use colored background for post page content"
+msgstr ""
+
+#: admin/functions/functions.options.php:1177
+#@ color-theme-framework
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:1181
+#@ color-theme-framework
+msgid "Sidebar Position for Homepage"
+msgstr ""
+
+#: admin/functions/functions.options.php:1182
+#@ color-theme-framework
+msgid "Select sidebar position"
+msgstr ""
+
+#: admin/functions/functions.options.php:1189
+#@ color-theme-framework
+msgid "Length of Excerpt for Product Short Description"
+msgstr ""
+
+#: admin/functions/functions.options.php:1190
+#@ color-theme-framework
+msgid "Set length of excerpt in chars<br /> Min: 0, max: 500, step: 1, default value: 120"
+msgstr ""
+
+#: admin/functions/functions.options.php:1199
+#@ color-theme-framework
+msgid "Product Columns"
+msgstr ""
+
+#: admin/functions/functions.options.php:1200
+#@ color-theme-framework
+msgid "The number of columns for Shop page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1207
+#@ color-theme-framework
+msgid "Products per Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1208
+#@ color-theme-framework
+msgid "Set the number of products displayed per page<br /> Min: 2, max: 100, step: 1, default value: 4"
+msgstr ""
+
+#: admin/functions/functions.options.php:1217
+#@ color-theme-framework
+msgid "Related Products per Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1218
+#@ color-theme-framework
+msgid "Set the number of related products to display on product page<br /> Min: 0, max: 10, step: 1, default value: 120"
+msgstr ""
+
+#: admin/functions/functions.options.php:1227
+#@ color-theme-framework
+msgid "Related Products per Row"
+msgstr ""
+
+#: admin/functions/functions.options.php:1228
+#@ color-theme-framework
+msgid "Select the number of related products to display per row on product page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1243
+#@ color-theme-framework
+msgid "Background Color for 'On Sale'"
+msgstr ""
+
+#: admin/functions/functions.options.php:1244
+#@ color-theme-framework
+msgid "Pick a background color for the 'Sale!' (default: #C2374C)"
+msgstr ""
+
+#: admin/functions/functions.options.php:1250
+#@ color-theme-framework
+msgid "Background Color for 'Out Of Stock'"
+msgstr ""
+
+#: admin/functions/functions.options.php:1251
+#@ color-theme-framework
+msgid "Pick a background color for the 'Out Of Stock' (default: #303030)"
+msgstr ""
+
+#: admin/functions/functions.options.php:1257
+#@ color-theme-framework
+msgid "Color for Product Review Stars"
+msgstr ""
+
+#: admin/functions/functions.options.php:1258
+#@ color-theme-framework
+msgid "Pick a color for product review stars (default: #dd0c37)"
+msgstr ""
+
+#: contact.php:22
+#@ color-theme-framework
+msgid "Please enter your name"
+msgstr ""
+
+#: contact.php:26
+#@ color-theme-framework
+msgid "Please enter your e-mail"
+msgstr ""
+
+#: contact.php:28
+#@ color-theme-framework
+msgid "e-mail is incorrect"
+msgstr ""
+
+#: contact.php:32
+#@ color-theme-framework
+msgid "Please enter message more than 15 characters"
+msgstr ""
+
+#: contact.php:36
+#@ color-theme-framework
+msgid "Message from Pravda WordPress Theme"
+msgstr ""
+
+#: contact.php:37
+#@ color-theme-framework
+msgid "Name: "
+msgstr ""
+
+#: contact.php:38
+#@ color-theme-framework
+msgid "Email: "
+msgstr ""
+
+#: contact.php:39
+#@ color-theme-framework
+msgid "URL: "
+msgstr ""
+
+#: contact.php:40
+#@ color-theme-framework
+msgid "Subject: "
+msgstr ""
+
+#: contact.php:41
+#@ color-theme-framework
+msgid "Message: "
+msgstr ""
+
+#: functions/ct-carousel-widget.php:300
+#: functions/ct-recent-posts-widget.php:268
+#: functions/ct-small-slider-widget.php:330
+#@ color-theme-framework
+msgid "Categories to exclude:"
+msgstr ""
+
+#: functions.php:353
+#@ color-theme-framework
+msgid "Appears on the Pages (very top)"
+msgstr ""
+
+#: functions.php:363
+#@ color-theme-framework
+msgid "Appears on the footer area"
+msgstr ""
+
+#: functions.php:373
+#@ color-theme-framework
+msgid "Appears on the Woocommerce Shop"
+msgstr ""
+
+#: functions.php:1727
+#: functions.php:1729
+#@ color-theme-framework
+msgid "Read more"
+msgstr ""
+
+#: index.php:159
+#: template-blog.php:168
+#@ color-theme-framework
+msgid "Show More Posts"
+msgstr ""
+
+#: index.php:160
+#: template-blog.php:169
+#@ color-theme-framework
+msgid "Loading Posts..."
+msgstr ""
+
+#: index.php:161
+#: template-blog.php:170
+#@ color-theme-framework
+msgid "No More Posts to Show"
+msgstr ""
+
+#: single.php:114
+#@ color-theme-framework
+msgctxt "Previous post link"
+msgid ""
+msgstr ""
+
+#: single.php:120
+#@ color-theme-framework
+msgctxt "Next post link"
+msgid "&larr;"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:14
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+#@ woocommerce
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:21
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/emails/customer-completed-order.php:23
+#: woocommerce/emails/customer-invoice.php:27
+#: woocommerce/emails/customer-note.php:27
+#: woocommerce/emails/customer-processing-order.php:23
+#: woocommerce/order/order-details.php:20
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#: woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+#: woocommerce/loop/orderby.php:71
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+#: woocommerce/emails/admin-new-order.php:23
+#: woocommerce/emails/customer-completed-order.php:24
+#: woocommerce/emails/customer-invoice.php:28
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-processing-order.php:24
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+#: woocommerce/checkout/review-order.php:22
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+#: woocommerce/cart/mini-cart.php:49
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:100
+#: woocommerce/single-product/add-to-cart/quantity.php:12
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127
+#: woocommerce/checkout/form-coupon.php:29
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+#@ woocommerce
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#@ woocommerce
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:58
+#@ woocommerce
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:66
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+#: woocommerce/loop/add-to-cart.php:60
+#@ woocommerce
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72
+#@ woocommerce
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:32
+#@ woocommerce
+msgid "Free"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:68
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76
+#: woocommerce/cart/totals.php:147
+#, php-format
+#@ woocommerce
+msgid "Sorry, it seems that there are no available shipping methods for your location (%s)."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76
+#: woocommerce/cart/totals.php:147
+#@ woocommerce
+msgid "If you require assistance or wish to make alternate arrangements please contact us."
+msgstr ""
+
+#: woocommerce/cart/totals.php:22
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:28
+#: woocommerce/checkout/review-order.php:27
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/checkout/review-order.php:34
+#@ woocommerce
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35
+#: woocommerce/cart/totals.php:83
+#@ woocommerce
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:46
+#: woocommerce/checkout/review-order.php:45
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/totals.php:83
+#: woocommerce/checkout/review-order.php:82
+#@ woocommerce
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:92
+#: woocommerce/checkout/review-order.php:91
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/totals.php:105
+#: woocommerce/checkout/review-order.php:104
+#, php-format
+#@ woocommerce
+msgid "(Includes %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:121
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:123
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:135
+#@ woocommerce
+msgid "No shipping methods were found; please recalculate your shipping and enter your state/county and zip/postcode to ensure there are no other available methods for your location."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+#@ woocommerce
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+#@ woocommerce
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:17
+#@ woocommerce
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:21
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:115
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+#@ woocommerce
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:51
+#@ woocommerce
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+#@ woocommerce
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+#@ woocommerce
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:17
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+#@ woocommerce
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#@ woocommerce
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#@ woocommerce
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+#@ woocommerce
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+#@ woocommerce
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:78
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:87
+#@ woocommerce
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#@ woocommerce
+msgid "Ship to billing address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:35
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:130
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+#: woocommerce/single-product/tabs/additional-information.php:14
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:174
+#@ woocommerce
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:176
+#@ woocommerce
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#@ woocommerce
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#@ woocommerce
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:192
+#@ woocommerce
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:199
+#@ woocommerce
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:199
+#@ woocommerce
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:71
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:67
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#: woocommerce/emails/customer-completed-order.php:18
+#: woocommerce/emails/customer-invoice.php:22
+#: woocommerce/emails/customer-note.php:22
+#: woocommerce/emails/customer-processing-order.php:18
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/content-product.php:43
+#, php-format
+#@ color-theme-framework
+msgid "View product %s"
+msgstr ""
+
+#: woocommerce/content-product.php:49
+#@ color-theme-framework
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/content-product.php:88
+#@ color-theme-framework
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/content-product.php:113
+#: woocommerce/single-product-reviews.php:28
+#, php-format
+#@ woocommerce
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: woocommerce/content-product.php:124
+#@ product_cat
+msgid ""
+msgid_plural ""
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#: woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+#@ woocommerce
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#, php-format
+#@ woocommerce
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/emails/customer-completed-order.php:51
+#: woocommerce/emails/customer-note.php:55
+#: woocommerce/emails/customer-processing-order.php:51
+#: woocommerce/emails/plain/admin-new-order.php:38
+#: woocommerce/order/order-details.php:97
+#@ woocommerce
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:41
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:101
+#@ woocommerce
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#: woocommerce/emails/customer-completed-order.php:57
+#: woocommerce/emails/customer-note.php:61
+#: woocommerce/emails/customer-processing-order.php:57
+#: woocommerce/emails/plain/admin-new-order.php:44
+#: woocommerce/emails/plain/customer-completed-order.php:44
+#: woocommerce/emails/plain/customer-note.php:52
+#: woocommerce/emails/plain/customer-processing-order.php:44
+#@ woocommerce
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:14
+#: woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+#@ woocommerce
+msgid "Hi there. Your recent order on %s has been completed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+#@ woocommerce
+msgid "An order has been created for you on %s. To pay for this order please use the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#@ woocommerce
+msgid "pay"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:14
+#: woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+#@ woocommerce
+msgid "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:16
+#: woocommerce/emails/plain/customer-new-account.php:15
+#, php-format
+#@ woocommerce
+msgid "You can access your account area here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:14
+#: woocommerce/emails/plain/customer-note.php:13
+#@ woocommerce
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:18
+#: woocommerce/emails/plain/customer-note.php:21
+#@ woocommerce
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:14
+#: woocommerce/emails/plain/customer-processing-order.php:13
+#@ woocommerce
+msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:14
+#: woocommerce/emails/plain/customer-reset-password.php:13
+#@ woocommerce
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:15
+#: woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+#@ woocommerce
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:16
+#: woocommerce/emails/plain/customer-reset-password.php:16
+#@ woocommerce
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:17
+#: woocommerce/emails/plain/customer-reset-password.php:17
+#@ woocommerce
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+#@ woocommerce
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#: woocommerce/emails/plain/email-addresses.php:12
+#@ woocommerce
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#: woocommerce/emails/plain/email-addresses.php:17
+#@ woocommerce
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:48
+#, php-format
+#@ woocommerce
+msgid "Download %d:"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:50
+#@ woocommerce
+msgid "Download:"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:19
+#: woocommerce/emails/plain/customer-completed-order.php:19
+#: woocommerce/emails/plain/customer-invoice.php:20
+#: woocommerce/emails/plain/customer-note.php:27
+#: woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+#@ woocommerce
+msgid "Order number: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#: woocommerce/emails/plain/customer-completed-order.php:20
+#: woocommerce/emails/plain/customer-invoice.php:21
+#: woocommerce/emails/plain/customer-note.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+#@ woocommerce
+msgid "Order date: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#@ woocommerce
+msgid "jS F Y"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-completed-order.php:38
+#: woocommerce/emails/plain/customer-note.php:46
+#: woocommerce/emails/plain/customer-processing-order.php:38
+#@ woocommerce
+msgid "Your details"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:28
+#, php-format
+#@ woocommerce
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:31
+#, php-format
+#@ woocommerce
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:17
+#: woocommerce/loop/add-to-cart.php:41
+#: woocommerce/loop/add-to-cart.php:50
+#@ woocommerce
+msgid "View Product"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:33
+#@ woocommerce
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:37
+#@ woocommerce
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:46
+#: woocommerce/single-product/add-to-cart/grouped.php:44
+#: woocommerce/single-product/add-to-cart/grouped.php:75
+#: woocommerce/single-product/add-to-cart/simple.php:42
+#: woocommerce/single-product/add-to-cart/variable.php:84
+#@ woocommerce
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:58
+#@ woocommerce
+msgid "Add product to cart"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:60
+#@ woocommerce
+msgid "View cart"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+#: woocommerce/loop-shop.php:40
+#@ woocommerce
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:35
+#@ woocommerce
+msgid "Products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:35
+#@ woocommerce
+msgid "Per Page"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:37
+#@ woocommerce
+msgid "6 Products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:38
+#@ woocommerce
+msgid "9 Products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:39
+#@ woocommerce
+msgid "15 Products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:40
+#@ woocommerce
+msgid "30 Products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:41
+#@ woocommerce
+msgid "45 Products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:49
+#@ woocommerce
+msgid "Order products ascending"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:51
+#@ woocommerce
+msgid "Order products descending"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:69
+#: woocommerce/single-product-reviews.php:84
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:72
+#@ woocommerce
+msgid "Popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:73
+#@ woocommerce
+msgid "Average rating"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:29
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:35
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:45
+#@ woocommerce
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:43
+#@ woocommerce
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:40
+#: woocommerce/shop/form-login.php:31
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:29
+#: woocommerce/myaccount/form-lost-password.php:24
+#: woocommerce/shop/form-login.php:20
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:85
+#: woocommerce/shop/form-login.php:24
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/shop/form-login.php:33
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+#: woocommerce/myaccount/form-login.php:101
+#@ woocommerce
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:66
+#@ woocommerce
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:78
+#: woocommerce/single-product-reviews.php:86
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+#@ woocommerce
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:45
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+#@ woocommerce
+msgid "Hello, <strong>%s</strong>. From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">change your password</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ woocommerce
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ woocommerce
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:77
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:82
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#@ woocommerce
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#@ woocommerce
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+#@ woocommerce
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:64
+#, php-format
+#@ woocommerce
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:90
+#@ woocommerce
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+#@ woocommerce
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:119
+#: woocommerce/order/order-details.php:134
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#, php-format
+#@ woocommerce
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#@ woocommerce
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#@ woocommerce
+msgid " ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:31
+#@ woocommerce
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:63
+#@ woocommerce
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:91
+#: woocommerce/shop/breadcrumb.php:189
+#@ woocommerce
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:147
+#@ woocommerce
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:193
+#@ woocommerce
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:198
+#@ woocommerce
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:203
+#@ woocommerce
+msgid "Page"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:70
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:19
+#@ woocommerce
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/price.php:16
+#@ color-theme-framework
+msgid "Price:"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+#@ woocommerce
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:37
+#@ woocommerce
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/related.php:36
+#@ woocommerce
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:27
+#: woocommerce/single-product-reviews.php:28
+#@ woocommerce
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:33
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+#@ woocommerce
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+#@ woocommerce
+msgid "You may also like ..."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:30
+#, php-format
+#@ woocommerce
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+#: woocommerce/single-product-reviews.php:42
+#@ woocommerce
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#@ woocommerce
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#@ woocommerce
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#@ woocommerce
+msgid "Add Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#@ woocommerce
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#@ woocommerce
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#@ woocommerce
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+#@ woocommerce
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+

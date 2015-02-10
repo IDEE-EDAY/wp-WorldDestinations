@@ -1,0 +1,92 @@
+/*
+Theme Name: Pravda - Retina Responsive Wordpress Theme
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+
+.widget-slider, .flex-carousel, .small-slider { direction: ltr; overflow: hidden; }
+.flexslider .slides > li {text-align:right;direction:rtl;}
+
+.edit-link .icon-pencil { padding-right: 0; padding-left: 5px; }
+.entry-meta [class^="icon-"], .entry-meta [class*=" icon-"], .entry-extra [class^="icon-"], .entry-extra [class*=" icon-"] { padding-left: 3px; padding-right: 0; }
+.entry-share .icon-plus { padding-right: 5px; }
+#searchform input[type="text"] { float: none; margin-right: 0; }
+.popular-posts-widget li [class^="icon-"], .popular-posts-widget li [class*=" icon-"], .recent-posts-widget li [class^="icon-"], .recent-posts-widget li [class*=" icon-"], .small-slider li [class^="icon-"], .small-slider li [class*=" icon-"] {
+padding-right: 0; padding-left: 3px; }
+.meta span:last-child { margin-left: 0; }
+.entry-share-icons i { padding-left: 0; padding-right: 4px !important; }
+.sf-menu li [class^="icon-"]:before { float: right; padding-right: 0px; padding-left: 5px; }
+.sf-menu li [class^="icon-"] { text-align: right; }
+#menu { text-align: right; }
+.input-prepend .add-on { float: left; }
+#ajax-contact-form .span5 { float: right; }
+.entry-format { right: inherit; left: 10px; }
+h1.entry-title { padding-right: 20px; padding-left: 70px; }
+.entry-date { float: right; margin-right: 0; margin-left: 20px; }
+.widget-post-small-thumb { float: right; }
+.widget-post-small-thumb img { margin-right: 0; margin-left: 15px; }
+.widget .meta span:last-child { margin-left: 0; }
+.widget .meta > span:first-child { margin-left: 17px; }
+.comments-link { float: right; }
+.entry-share { float: left; }
+.entry-share-icons { left: -105px; right: inherit; }
+.entry-share:hover .entry-share-icons { left: -10px; right: inherit; }
+.masonry-box { float: right; }
+.entry-meta [class^="meta-"] { float: left; margin-right: 20px; margin-left: 0; }
+.entry-meta span:last-child { margin-right: 0; }
+a > .sf-sub-indicator { right: inherit; left: -18px; }
+.pagination span, .pagination a { float: right; }
+/*.sf-menu li:hover ul, .sf-menu li.sfHover ul { left: -11em; }*/
+.sf-menu ul { left: inherit; right: 0; }
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul { right: 100%; }
+.category-item, .title-block .category-item { right: inherit; left: 0; }
+.ct-totop { right: inherit; left: 5px; }
+.carousel-thumb .title-mask { width: 265px; }
+.span5.logo-block { float: right; }
+#logo { text-align: right; }
+.span7.banner-block { margin-left: 0; }
+.banner { float: left; }
+#author-avatar { float: right; padding: 20px 20px 20px 15px; }
+.nav-next { float: left; text-align: left; }
+.nav-previous { float: right; }
+.comment-avatar { float: right; margin-left: 15px; margin-right: 0; }
+#comments .edit-link { float: right; }
+.reply { float: left; }
+.comment-reply-link { margin-right: 5px; }
+.ct_categories_widget li:after { content: "\f00c"; font-family: FontAwesome; padding-left: 4px; font-size: 10px; }
+.ct_categories_widget li:before { content: none; }
+.sf-menu ul .sf-sub-indicator { right: inherit; left: 10px; }
+.review-block { float: left; }
+.overall_score > .score_value { float: left; margin-right: 15px; margin-left: 0; }
+.overall_score > .score_name { padding-right: 10px; padding-left: 0; }
+.criteria_name { float: right; margin-left: 15px; margin-right: 0; }
+.rating-stars { float: left; }
+.copyright-info { text-align: left; }
+#blog-entry { margin-right: -20px; }
+.home #secondary { margin-bottom: -35px; }
+.ct_carousel_widget .review-box { left: inherit; right: 0; }
+.widget ul { margin: 0 20px 10px 0; }
+
+.sf-menu > li { float: right; }
+.sf-menu > li:first-child { padding-right: 0; padding-left: 20px; }
+.sf-menu > li:last-child { padding-left: 0; padding-right: 20px; }
+.sf-with-ul:after { left: -14px; right: inherit; }
+.sf-menu ul { right: inherit; }
+.sub-menu .sf-with-ul:after { left: 10px; right: inherit; }
+.sf-menu li:hover ul, .sf-menu li.sfHover ul, .sf-menu ul { left: inherit; }
+.sf-menu li:first-child:hover ul, .sf-menu li:first-child.sfHover ul, .sf-menu li:first-child ul { left: inherit; }
