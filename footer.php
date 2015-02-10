@@ -45,7 +45,7 @@ $footer_width = stripslashes( $ct_data['ct_header_width'] );
 	</div><!-- .container -->
 </div><!-- #footer -->
 
-<a href="#" class="ct-totop" title="<?php _e('To Top','color-theme-framework'); ?>"><i class="icon-chevron-up"></i></a>
+<a href="#" class="ct-totop" title="<?php _e('วิ่งกลับไปด้านบน!!','color-theme-framework'); ?>"><i class="icon-chevron-up"></i></a>
 
 <?php wp_footer(); ?>
 
