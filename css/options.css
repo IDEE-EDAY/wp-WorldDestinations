@@ -2,7 +2,7 @@
 /* Header Bg */
 	#footer { background: #2B2E30 }
 			#header {
-			background: url(http://localhost/World_Destinations-offline/wp-content/themes/wp-WorldDestinations/img/bg/noisy_grid.png) left top repeat;
+			background: url(http://www.worlddestinations.net/wp-content/themes/wp-WorldDestinations/img/bg/noisy_grid.png) left top repeat;
 			background-color: #EDEDED;
 		}
 		
@@ -80,7 +80,7 @@ body { background: #ededed; }
 .archive #blog-entry .masonry-box,
 .search-results #blog-entry .masonry-box {
 			
-	width: 100%; margin-right: 0; margin-bottom: 3.5%;
+	width: 46.5%; margin-right: 3.5%; margin-bottom: 3.5%;
 	
 			
 }
