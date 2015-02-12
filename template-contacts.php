@@ -78,24 +78,24 @@ if ( $mb_sidebar_position == '' ) $mb_sidebar_position = 'right';
 							<div class="row-fluid">
 						  		<div class="span5">
 									<div class="input-prepend">
-										<span class="add-on"><i class="icon-user"></i></span><input id="contact-name" type="text" title="<?php _e('Your Name','color-theme-framework'); ?>" name="name" required="" placeholder="<?php _e('Your Name','color-theme-framework'); ?>">
+										<span class="add-on"><i class="icon-user"></i></span><input id="contact-name" type="text" title="<?php _e('ชื่อของคุณ','color-theme-framework'); ?>" name="name" required="" placeholder="<?php _e('ชื่อ (Your Name)','color-theme-framework'); ?>">
 									</div><!-- .input-prepend -->
 					  				<div class="input-prepend">
-										<span class="add-on"><i class="icon-envelope"></i></span><input id="contact-email" type="email" title="<?php _e('Your Email Address','color-theme-framework'); ?>" name="email" required="" placeholder="<?php _e('Your Email Address','color-theme-framework'); ?>">
+										<span class="add-on"><i class="icon-envelope"></i></span><input id="contact-email" type="email" title="<?php _e('Email Address','color-theme-framework'); ?>" name="email" required="" placeholder="<?php _e('Email Address','color-theme-framework'); ?>">
 					  				</div><!-- .input-prepend -->
 					  				<div class="input-prepend">
-										<span class="add-on"><i class="icon-share"></i></span><input id="contact-url" type="url" title="<?php _e('Your URL','color-theme-framework'); ?>" name="url" placeholder="<?php _e('Your URL','color-theme-framework'); ?>">
+										<span class="add-on"><i class="icon-share"></i></span><input id="contact-url" type="url" title="<?php _e('สำหรับท่านที่มีเว็บไซต์','color-theme-framework'); ?>" name="url" placeholder="<?php _e('Your URL','color-theme-framework'); ?>">
 					  				</div><!-- .input-prepend -->
 					  				<div class="input-prepend">
-										<span class="add-on"><i class="icon-flag"></i></span><input id="contact-subject" type="text" title="<?php _e('Subject','color-theme-framework'); ?>" name="subject" required="" placeholder="<?php _e('Subject','color-theme-framework'); ?>">
+										<span class="add-on"><i class="icon-flag"></i></span><input id="contact-subject" type="text" title="<?php _e('หัวข้อ','color-theme-framework'); ?>" name="subject" required="" placeholder="<?php _e('หัวข้อ (Subject)','color-theme-framework'); ?>">
 					  				</div><!-- .input-prepend -->
 					  			</div><!-- .span5 -->
 					  		</div><!-- row-fluid -->
 
 					   		<div class="row-fluid">
 								<div class="span12">
-						  			<textarea id="textarea" name="message" required placeholder="<?php _e('Type your questions here...','color-theme-framework'); ?>" rows="10" class="span12"></textarea>
-					  				<button type="submit" class="btn"><?php _e('Send Message','color-theme-framework'); ?></button>
+									<textarea id="textarea" name="message" required placeholder="<?php _e('ข้อความ (Message here)...','color-theme-framework'); ?>" rows="10" class="span12"></textarea>
+									<button type="submit" class="btn"><?php _e('ส่ง (Send Message)','color-theme-framework'); ?></button>
 								</div><!-- span12 -->
 				   			</div><!-- row-fluid -->
 							<span></span>
