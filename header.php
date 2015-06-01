@@ -20,14 +20,16 @@
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" /> 
 
+<!-- Disable Open Graph function on Pravada prevent crash with plugin with this function
 <?php if ( is_single() ) : ?>
-	<?php $post_image_url = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'large'); ?>
-	<?php $post_description = ct_get_excerpt_by_id( $post->ID ); ?>
-	<meta property="og:url" content="<?php echo post_permalink( $post->ID ); ?>" />
-	<meta property="og:title" content="<?php echo get_the_title( $post->ID ); ?>" />
-	<meta property="og:image" content="<?php echo $post_image_url[0]; ?>" />
-	<meta property="og:description" content="<?php echo $post_description; ?>" />
+	<?php //$post_image_url = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'large'); ?>
+	<?php //$post_description = ct_get_excerpt_by_id( $post->ID ); ?>
+	<meta property="og:url" content="<?php //echo post_permalink( $post->ID ); ?>" />
+	<meta property="og:title" content="<?php //echo get_the_title( $post->ID ); ?>" />
+	<meta property="og:image" content="<?php //echo $post_image_url[0]; ?>" />
+	<meta property="og:description" content="<?php //echo $post_description; ?>" />
 <?php endif; ?>
+-->
 
 <?php wp_head(); ?>	
 
